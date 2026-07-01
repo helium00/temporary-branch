@@ -1,0 +1,852 @@
+{
+  "channels": [
+    {
+      "number": 1,
+      "name": "Rai 1",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/CAx7yRm.png",
+      "epg": "Rai1.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 2,
+      "name": "Rai 2",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/zA0PTcs.png",
+      "epg": "Rai2.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 3,
+      "name": "Rai 3",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/9kuQCIi.png",
+      "epg": "Rai3.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 4,
+      "name": "Rete 4",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/GWx2Fkl.png",
+      "epg": "Rete.4.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 5,
+      "name": "Canale 5",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/p6YdiR1.png",
+      "epg": "Canale.5.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 6,
+      "name": "Italia 1",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/oCiOxBG.png",
+      "epg": "Italia.1.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 7,
+      "name": "La7",
+      "stream": "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8",
+      "logo": "https://i.imgur.com/F90mpSa.png",
+      "epg": "LA7.HD.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 8,
+      "name": "TV8",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
+      "logo": "https://i.imgur.com/xvoHVOU.png",
+      "epg": "TV8.HD.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 9,
+      "name": "Nove",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/Hp723RU.png",
+      "epg": "Nove.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 20,
+      "name": "20 Mediaset",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/It13jwX.png",
+      "epg": "20.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 21,
+      "name": "Rai 4",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/XFkZRfv.png",
+      "epg": "Rai4.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 22,
+      "name": "Iris",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/Ixz1BY3.png",
+      "epg": "Iris.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 23,
+      "name": "Rai 5",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/Leu2zTO.png",
+      "epg": "Rai5.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 24,
+      "name": "Rai Movie",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/RKpO8CE.png",
+      "epg": "RaiMovie.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 25,
+      "name": "Rai Premium",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/RKI4nFy.png",
+      "epg": "RaiPremium.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 26,
+      "name": "Cielo",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
+      "logo": "https://i.imgur.com/cPluF03.png",
+      "epg": "cielo.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 27,
+      "name": "27 Twentyseven",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/y2PdPCK.png",
+      "epg": "27Twentyseven.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 28,
+      "name": "TV 2000",
+      "stream": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+      "logo": "https://i.imgur.com/x7RaK3a.png",
+      "epg": "TV2000.va",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 29,
+      "name": "La7 Cinema",
+      "stream": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8",
+      "logo": "https://i.imgur.com/khPweok.png",
+      "epg": "LA7.Cinema.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 30,
+      "name": "La 5",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/UNyJaho.png",
+      "epg": "La5.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 31,
+      "name": "Real Time",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/9dcTYg1.png",
+      "epg": "Real.Time.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 32,
+      "name": "QVC",
+      "stream": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+      "logo": "https://i.imgur.com/Ea7iUX2.png",
+      "epg": "QVC.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 33,
+      "name": "Food Network",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/i60OYr9.png",
+      "epg": "Food.Network.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 34,
+      "name": "Cine34",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/YyldwhI.png",
+      "epg": "Cine34.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 35,
+      "name": "Focus",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/M4smqpF.png",
+      "epg": "Focus.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 36,
+      "name": "RTL 102.5",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8",
+      "logo": "https://i.imgur.com/KdissvS.png",
+      "epg": "RTL.102.5.HD.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 38,
+      "name": "Giallo",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/0PIRwZS.png",
+      "epg": "Giallo.TV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 39,
+      "name": "Top Crime",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/RFIwv9O.png",
+      "epg": "Top.Crime.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 40,
+      "name": "BOING",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/niSlrqT.png",
+      "epg": "Boing.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 41,
+      "name": "K2",
+      "stream": "https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8",
+      "logo": "https://i.imgur.com/wlLgSiA.png",
+      "epg": "K2.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 42,
+      "name": "Rai Gulp",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/lu1DPVb.png",
+      "epg": "RaiGulp.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 43,
+      "name": "Rai YoYo",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/DRSa3ys.png",
+      "epg": "RaiYoyo.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 44,
+      "name": "Frisbee",
+      "stream": "https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8",
+      "logo": "https://i.imgur.com/9y1zIAe.png",
+      "epg": "Frisbee.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 46,
+      "name": "Cartoonito",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/oK2DcDJ.png",
+      "epg": "Cartoonito.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 47,
+      "name": "Super!",
+      "stream": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8",
+      "logo": "https://i.imgur.com/1124YEp.png",
+      "epg": "Super!.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 48,
+      "name": "Rai News 24",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/gdzGwB6.png",
+      "epg": "RaiNews24.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 49,
+      "name": "Italia 2",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/nq48sjO.png",
+      "epg": "Italia.2.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 50,
+      "name": "Sky TG24",
+      "stream": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
+      "logo": "https://i.imgur.com/q4d3Dah.png",
+      "epg": "Sky.TG24.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 51,
+      "name": "TGCOM 24",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/xautVD8.png",
+      "epg": "TGCom.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 52,
+      "name": "DMAX",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/dmEmRX7.png",
+      "epg": "DMAX.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 54,
+      "name": "Rai Storia",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/K8y5q8x.png",
+      "epg": "RaiStoria.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 55,
+      "name": "Mediaset Extra",
+      "stream": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/mM8lopo.png",
+      "epg": "Mediaset.Extra.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 56,
+      "name": "HGTV – Home & Garden Tv",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/emLNC0U.png",
+      "epg": "HGTVItaly.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 57,
+      "name": "Rai Scuola",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/tmtJW6s.png",
+      "epg": "RaiScuola.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 58,
+      "name": "Rai Sport",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/xsGljsb.png",
+      "epg": "RaiSport.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 59,
+      "name": "Turbo",
+      "stream": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
+      "logo": "https://i.imgur.com/TjjVjV0.png",
+      "epg": "Motor.Trend.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 60,
+      "name": "Sportitalia Plus",
+      "stream": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "epg": "Sportitalia.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 61,
+      "name": "Travel TV",
+      "stream": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8",
+      "logo": "https://i.imgur.com/aXAUyLN.png",
+      "epg": "TravelTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 62,
+      "name": "Donna TV",
+      "stream": "https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8",
+      "logo": "https://i.imgur.com/Aa1Abme.png",
+      "epg": "DonnaTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 64,
+      "name": "SuperTennis",
+      "stream": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8",
+      "logo": "https://i.imgur.com/GzsPlbX.png",
+      "epg": "SuperTennis.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 65,
+      "name": "Alma TV",
+      "stream": "https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8",
+      "logo": "https://i.imgur.com/Y8JiDwN.png",
+      "epg": "AlmaTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 66,
+      "name": "Radio 105 TV",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/3NiLKvj.png",
+      "epg": "Radio105TV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 67,
+      "name": "R101 TV",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/mWeEa9T.png",
+      "epg": "R101TV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 69,
+      "name": "Deejay TV",
+      "stream": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+      "logo": "https://i.imgur.com/rlaKH6k.png",
+      "epg": "DeejayTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 70,
+      "name": "RadioItaliaTV",
+      "stream": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8",
+      "logo": "https://i.imgur.com/4VCEJuJ.png",
+      "epg": "RadioItaliaTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 158,
+      "name": "Radio KISS KISS TV",
+      "stream": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/UTStxDW.png",
+      "epg": "KissKissTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 202,
+      "name": "Rai Radio 2 Visual Radio",
+      "stream": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5",
+      "logo": "https://i.imgur.com/nVBet0h.png",
+      "epg": "RaiRadio2Visual.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 233,
+      "name": "RTL 102.5 Traffic",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8",
+      "logo": "https://i.imgur.com/GH7byqm.jpeg",
+      "epg": "RTL1025Traffic.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 236,
+      "name": "MAN-GA",
+      "stream": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u",
+      "logo": "https://i.imgur.com/8a6WYU2.png",
+      "epg": "Manga.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 246,
+      "name": "Radio24-IlSole24OreTV",
+      "stream": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8",
+      "logo": "https://i.imgur.com/NTqrdWW.png",
+      "epg": "Radio24TV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 247,
+      "name": "BeJoy.Kids",
+      "stream": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8",
+      "logo": "https://i.imgur.com/zuR9Go5.png",
+      "epg": "BeJoyKids.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 257,
+      "name": "Gambero Rosso",
+      "stream": "https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8",
+      "logo": "https://i.imgur.com/RApMW5x.png",
+      "epg": "GamberoRosso.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 258,
+      "name": "RadioFreccia",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8",
+      "logo": "https://i.imgur.com/J5N9F7Z.png",
+      "epg": "RadioFrecciaTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 265,
+      "name": "RDS Social TV",
+      "stream": "https://stream.rdstv.radio/index.m3u8",
+      "logo": "https://i.imgur.com/TY6FhqI.png",
+      "epg": "RDSSocialTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 266,
+      "name": "Radio ZETA",
+      "stream": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8",
+      "logo": "https://i.imgur.com/0MgCm1n.png",
+      "epg": "RadioZetaTV.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 899,
+      "name": "Radio TV Serie A con RDS",
+      "stream": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8",
+      "logo": "https://i.imgur.com/NzDeCIx.png",
+      "epg": "RadioTVSerieA.it",
+      "section": "National DVB-T"
+    },
+    {
+      "number": 58,
+      "name": "Sportitalia SOLOCALCIO",
+      "stream": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
+      "epg": "SportitaliaSolocalcio.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 67,
+      "name": "Radio Montecarlo TV",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/3TMMXmS.png",
+      "epg": "RadioMonteCarloTV.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 68,
+      "name": "Virgin Radio TV",
+      "stream": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8",
+      "logo": "https://i.imgur.com/7Im3HI1.png",
+      "epg": "VirginRadioTV.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 89,
+      "name": "Senato TV",
+      "stream": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8",
+      "logo": "https://i.imgur.com/FoQoNZW.png",
+      "epg": "SenatoTV.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 90,
+      "name": "Camera dei Deputati",
+      "stream": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
+      "logo": "https://i.imgur.com/fqGn1k9.png",
+      "epg": "CameradeiDeputati.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 210,
+      "name": "Rai 4K",
+      "stream": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
+      "logo": "https://i.imgur.com/5gkt9DD.png",
+      "epg": "Rai4K.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 701,
+      "name": "UniNettuno University TV",
+      "stream": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
+      "logo": "https://i.imgur.com/BOGMeio.png",
+      "epg": "UniNettunoUniversityTV.it",
+      "section": "Satellite"
+    },
+    {
+      "number": 0,
+      "name": "12 Tv Parma",
+      "stream": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
+      "logo": "https://i.imgur.com/xnUgx6b.png",
+      "epg": "12TVParma.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Alto Adige Tv",
+      "stream": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8",
+      "logo": "https://i.imgur.com/S2sCFQi.png",
+      "epg": "AltoAdigeTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Antenna 3 Veneto Nord Est",
+      "stream": "https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8",
+      "logo": "https://i.imgur.com/NiVHLwp.png",
+      "epg": "AntennaTreNordest.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Aurora Arte",
+      "stream": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+      "logo": "https://i.imgur.com/BoLZ5wG.png",
+      "epg": "AuroraArte.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Azzurra Tv Vco",
+      "stream": "https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8",
+      "logo": "https://i.imgur.com/mSWw8uW.png",
+      "epg": "AzzurraTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Canale 21",
+      "stream": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8",
+      "logo": "https://i.imgur.com/mU6Cq89.png",
+      "epg": "Canale21.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Canale 21 Extra",
+      "stream": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8",
+      "logo": "https://i.imgur.com/cDAsrBl.png",
+      "epg": "Canale21Extra.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Canale Italia",
+      "stream": "https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/QlwLRyh.png",
+      "epg": "CanaleItalia.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Espansione Tv",
+      "stream": "https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8",
+      "logo": "https://i.imgur.com/mm9HKpD.png",
+      "epg": "EspansioneTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Gold Tv",
+      "stream": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
+      "logo": "https://i.imgur.com/3rVi4kD.png",
+      "epg": "GoldTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Italia 2 Tv",
+      "stream": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+      "logo": "https://i.imgur.com/ISbxfY0.png",
+      "epg": "Italia2TV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Iunior Tv",
+      "stream": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8",
+      "logo": "https://i.imgur.com/9jeNlLE.png",
+      "epg": "IuniorTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Peer Tv Alto Adige",
+      "stream": "https://iptv.peer.biz/live/peertv-it.m3u8",
+      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
+      "epg": "PeerTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 2,
+      "name": "Peer TV Südtirol",
+      "stream": "https://iptv.peer.biz/live/peertv.m3u8",
+      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
+      "epg": "PeerTV.de",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Radio m2o Tv",
+      "stream": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+      "logo": "https://i.imgur.com/wl30UFj.png",
+      "epg": "m2oTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Radio Norba Tv",
+      "stream": "https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8",
+      "logo": "https://i.imgur.com/qftBPM9.png",
+      "epg": "RadionorbaTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Radio Radio Tv",
+      "stream": "https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8",
+      "logo": "https://i.imgur.com/iKuRg2b.png",
+      "epg": "RadioRadioTV.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "RTC Telecalabria",
+      "stream": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
+      "logo": "https://i.imgur.com/tTYLcuh.jpg",
+      "epg": "RTCTelecalabria.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "RTL 102.5 + Plus",
+      "stream": "https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8",
+      "logo": "https://i.imgur.com/mPqDtCO.png",
+      "epg": "RTL1025Plus.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Super Six",
+      "stream": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8",
+      "logo": "https://i.imgur.com/kHSuyub.png",
+      "epg": "SuperSix.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Telecolor",
+      "stream": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8",
+      "logo": "https://i.imgur.com/urUG78J.png",
+      "epg": "TelecolorLombardia.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Telenova",
+      "stream": "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8",
+      "logo": "https://i.imgur.com/x41IkJK.png",
+      "epg": "Telenova.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "TeleRent 7Gold",
+      "stream": "https://router.xdevel.com/video0s86-21/stream/playlist.m3u8",
+      "logo": "https://i.imgur.com/YZadq0M.png",
+      "epg": "7Gold.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "TG Norba 24",
+      "stream": "https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8",
+      "logo": "https://i.imgur.com/9MhrrJK.png",
+      "epg": "TGNorba24.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 0,
+      "name": "Video Calabria",
+      "stream": "https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8",
+      "logo": "https://i.imgur.com/Bc2AvIm.png",
+      "epg": "VideoCalabria.it",
+      "section": "Regional DVB-T"
+    },
+    {
+      "number": 519,
+      "name": "TRM h24 Ⓨ",
+      "stream": "https://www.youtube.com/user/trmh24/live",
+      "logo": "https://i.imgur.com/d47CdYU.png",
+      "epg": "TRMh24.it",
+      "section": "YouTube Live"
+    },
+    {
+      "number": 59,
+      "name": "Euronews Italian Ⓨ",
+      "stream": "https://www.youtube.com/user/euronewsit/live",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
+      "epg": "EuronewsItalian.fr",
+      "section": "YouTube Live"
+    },
+    {
+      "number": 63,
+      "name": "GM24",
+      "stream": "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8",
+      "logo": "https://i.imgur.com/UCntSA3.png",
+      "epg": "GM24.it",
+      "section": "Invalid"
+    },
+    {
+      "number": 167,
+      "name": "VH1",
+      "stream": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+      "logo": "https://i.imgur.com/5ONlZGS.png",
+      "epg": "VH1Italia.it",
+      "section": "Invalid"
+    },
+    {
+      "number": 1,
+      "name": "RAI Italia America",
+      "stream": "http://210.210.155.69/s/s63/S4/mnf.m3u8",
+      "logo": "https://www.tvdream.net/img/rai-italia-bg.jpg",
+      "epg": "RaiItaliaAmerica.it",
+      "section": "Invalid"
+    },
+    {
+      "number": 3,
+      "name": "RAI Italia Asia",
+      "stream": "http://210.210.155.37/x6bnqe/s/s63/index2.m3u8",
+      "logo": "https://www.tvdream.net/img/rai-italia-bg.jpg",
+      "epg": "RaiItaliaAsia.it",
+      "section": "Invalid"
+    },
+    {
+      "number": 507,
+      "name": "Class CNBC",
+      "stream": "https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S57048752/8raQqCXozN1H/playlist.m3u8",
+      "logo": "https://i.imgur.com/oAiSU8O.png",
+      "epg": "ClassCNBC.it",
+      "section": "Invalid"
+    },
+    {
+      "number": 511,
+      "name": "BFC",
+      "stream": "https://62becaa5a1e2f.streamlock.net/BFC/BFC/playlist.m3u8",
+      "logo": "https://i.imgur.com/3OOsLu6.png",
+      "epg": "BFCForbes.it",
+      "section": "Invalid"
+    }
+  ]
+}
