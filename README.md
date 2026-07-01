@@ -64,9 +64,11 @@ on each stream server, not on this file:
 - **Geoblocking**: several streams are restricted to Italy.
 - **Dead links**: some entries in the upstream source are stale (`404`).
 
-**Logos** must keep their file extension (`.png`, `.jpg`, …). Zappr uses full
-`http(s)` logo URLs verbatim, so a URL without extension returns HTML instead of
-an image. (The published schema's "no extension" rule only applies to logos
-hosted on Zappr's own logo CDN.)
+**Logos** are subject to a conflict: the schema rejects URLs ending in
+`.png`/`.webp`, but Zappr uses full `http(s)` logo URLs verbatim, so a URL
+without any extension returns HTML instead of an image. To satisfy both,
+`.png`/`.webp` logos are rewritten to a URL that still serves an image without
+that suffix — imgur logos use the `.jpg` variant (imgur transcodes on the fly),
+and other hosts are routed through the `wsrv.nl` image proxy with `&output=jpg`.
 
 > This is a temporary repository.
