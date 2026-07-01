@@ -1,0 +1,390 @@
+{
+  "name": "Spain Free-TV",
+  "publisher": "helium00",
+  "publisherLink": "https://github.com/helium00/temporary-branch",
+  "channels": [
+    {
+      "lcn": 1,
+      "name": "La 1",
+      "logo": "https://i.imgur.com/NbesiPn.jpg",
+      "type": "hls",
+      "url": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
+    },
+    {
+      "lcn": 2,
+      "name": "La 2",
+      "logo": "https://i.imgur.com/DmuTwDw.jpg",
+      "type": "hls",
+      "url": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
+    },
+    {
+      "lcn": 3,
+      "name": "Antena 3",
+      "logo": "https://i.imgur.com/j3SP4BS.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/Antena3HD/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 4,
+      "name": "Cuatro",
+      "logo": "https://i.imgur.com/zROxNap.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/CuatroHD/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 5,
+      "name": "Telecinco",
+      "logo": "https://i.imgur.com/JECsKdk.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/TeleCincoHD/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 6,
+      "name": "La Sexta",
+      "logo": "https://i.imgur.com/b59MxgM.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/LaSexta/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 7,
+      "name": "24h",
+      "logo": "https://i.imgur.com/ZKR2jKr.jpg",
+      "type": "hls",
+      "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8"
+    },
+    {
+      "lcn": 8,
+      "name": "tdp",
+      "logo": "https://i.imgur.com/HliegRJ.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8"
+    },
+    {
+      "lcn": 9,
+      "name": "clan",
+      "logo": "https://i.imgur.com/38xIfQ3.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8"
+    },
+    {
+      "lcn": 10,
+      "name": "TVE Internacional Europe-Asia",
+      "logo": "https://i.imgur.com/ow1HArj.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main_dvr.m3u8"
+    },
+    {
+      "lcn": 11,
+      "name": "Neox",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/neox-es.png&output=jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/neox/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 12,
+      "name": "Nova",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png&output=jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/nova/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 13,
+      "name": "Mega",
+      "logo": "https://i.imgur.com/Udrt2eK.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/mega/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 14,
+      "name": "Atreseries",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/atreseries-es.png&output=jpg",
+      "type": "hls",
+      "url": "http://181.78.109.48:8000/play/a00l/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 15,
+      "name": "FDF",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/fdf-es.png&output=jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/fdf/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 16,
+      "name": "Divinity",
+      "logo": "https://i.imgur.com/o7fvEr6.jpg",
+      "type": "hls",
+      "url": "https://directos.divinity.es/orilinear04/live/linear04/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 17,
+      "name": "Energy",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/energy-es.png&output=jpg",
+      "type": "hls",
+      "url": "https://directos.energytv.es/orilinear03/live/linear03/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 18,
+      "name": "Boing",
+      "logo": "https://i.imgur.com/nUYuCAP.jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/boing/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 19,
+      "name": "Be Mad",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://directos.bemad.es/orilinear02/live/linear02/main/main.isml/main-audio_spa=128000-video=1500000.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 20,
+      "name": "Paramount Network",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png&output=jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/Paramount/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 21,
+      "name": "RNE para todos",
+      "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200",
+      "type": "hls",
+      "url": "https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8"
+    },
+    {
+      "lcn": 22,
+      "name": "euronews",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png&output=jpg",
+      "type": "hls",
+      "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
+    },
+    {
+      "lcn": 23,
+      "name": "El País",
+      "logo": "https://graph.facebook.com/elpais/picture?width=200&height=200",
+      "type": "hls",
+      "url": "https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8"
+    },
+    {
+      "lcn": 24,
+      "name": "Negocios",
+      "logo": "https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg",
+      "type": "hls",
+      "url": "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
+    },
+    {
+      "lcn": 25,
+      "name": "Squirrel",
+      "logo": "https://i.imgur.com/urF0kYA.jpg",
+      "type": "hls",
+      "url": "https://tsw.streamingwebtv24.it:1936/inteccdn1/inteccdn1/playlist.m3u8"
+    },
+    {
+      "lcn": 26,
+      "name": "BOM Cine",
+      "logo": "https://i.imgur.com/cqhofMU.jpg",
+      "type": "hls",
+      "url": "https://tsw.streamingwebtv24.it:1936/inteccdn3/inteccdn3/playlist.m3u8"
+    },
+    {
+      "lcn": 27,
+      "name": "Telemadrid",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8"
+    },
+    {
+      "lcn": 28,
+      "name": "La Otra",
+      "logo": "https://i.imgur.com/W1UZyXH.jpg",
+      "type": "hls",
+      "url": "https://laotra-1-23-secure2.akamaized.net/master.m3u8"
+    },
+    {
+      "lcn": 29,
+      "name": "Canal Sur Andalucía",
+      "logo": "https://i.imgur.com/WcVOXPr.jpg",
+      "type": "hls",
+      "url": "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8"
+    },
+    {
+      "lcn": 30,
+      "name": "La 8 Mediterráneo",
+      "logo": "https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200",
+      "type": "hls",
+      "url": "https://streaming004.gestec-video.com/hls/8TV.m3u8"
+    },
+    {
+      "lcn": 31,
+      "name": "Televisión Canaria",
+      "logo": "https://i.imgur.com/68LNS8e.jpg",
+      "type": "youtube",
+      "url": "https://www.youtube.com/user/TelevisionCanaria/live"
+    },
+    {
+      "lcn": 32,
+      "name": "IB3 Global",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/ib3-es.png&output=jpg",
+      "type": "youtube",
+      "url": "https://www.youtube.com/c/ib3/live"
+    },
+    {
+      "lcn": 33,
+      "name": "Canal Extremadura",
+      "logo": "https://i.imgur.com/xBeywIA.jpg",
+      "type": "hls",
+      "url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8"
+    },
+    {
+      "lcn": 34,
+      "name": "Aragón TV",
+      "logo": "https://i.imgur.com/8H3Q07b.jpg",
+      "type": "hls",
+      "url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8"
+    },
+    {
+      "lcn": 35,
+      "name": "ETB1",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8"
+    },
+    {
+      "lcn": 36,
+      "name": "ETB2",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8"
+    },
+    {
+      "lcn": 37,
+      "name": "TV3",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png&output=jpg",
+      "type": "hls",
+      "url": "http://185.189.225.150:85/tv3/index.m3u8",
+      "http": true
+    },
+    {
+      "lcn": 38,
+      "name": "TV3Cat",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 39,
+      "name": "3/24",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/3-24-es.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+    },
+    {
+      "lcn": 40,
+      "name": "Bon Dia",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Bon_Dia_TV.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8"
+    },
+    {
+      "lcn": 41,
+      "name": "SX3",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/2880px-SX3_logo.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 42,
+      "name": "El 33",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/el-33-es.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 43,
+      "name": "Esport3",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+      "geoblock": true
+    },
+    {
+      "lcn": 44,
+      "name": "Canal TE24",
+      "logo": "https://wsrv.nl/?url=i.ibb.co/3ynghbW/logox2.png&output=jpg",
+      "type": "hls",
+      "url": "https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8"
+    },
+    {
+      "lcn": 45,
+      "name": "À Punt TV",
+      "logo": "https://i.imgur.com/M88LoNl.jpg",
+      "type": "hls",
+      "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8"
+    },
+    {
+      "lcn": 46,
+      "name": "7 Región de Murcia",
+      "logo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png&output=jpg",
+      "type": "hls",
+      "url": "https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8"
+    },
+    {
+      "lcn": 47,
+      "name": "Canal 4 Tenerife",
+      "logo": "https://i.imgur.com/Egymir4.jpg",
+      "type": "hls",
+      "url": "https://videoserver.tmcreativos.com:19360/ccxwhsfcnq/ccxwhsfcnq.m3u8"
+    },
+    {
+      "lcn": 48,
+      "name": "Televisión Melilla",
+      "logo": "https://wsrv.nl/?url=raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/television-melilla-es.png&output=jpg",
+      "type": "hls",
+      "url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8"
+    },
+    {
+      "lcn": 49,
+      "name": "La 1 (Catalunya)",
+      "logo": "https://i.imgur.com/NbesiPn.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
+    },
+    {
+      "lcn": 50,
+      "name": "La 1 (Canarias)",
+      "logo": "https://i.imgur.com/NbesiPn.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8"
+    },
+    {
+      "lcn": 51,
+      "name": "La 2 (Catalunya)",
+      "logo": "https://i.imgur.com/DmuTwDw.jpg",
+      "type": "hls",
+      "url": "https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main_dvr.m3u8"
+    },
+    {
+      "lcn": 52,
+      "name": "La 2 (Canarias)",
+      "logo": "https://i.imgur.com/DmuTwDw.jpg",
+      "type": "hls",
+      "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    }
+  ]
+}

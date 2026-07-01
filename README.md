@@ -1,11 +1,16 @@
 # temporary-branch
 
-Italian TV channel list for the [Zappr](https://zappr.stream/) web IPTV player.
+TV channel lists for the [Zappr](https://zappr.stream/) web IPTV player.
 
-## File
+## Files
 
-`italy_zappr.json` — Zappr-compatible list of 388 Italian channels, validated
-against the official schema (`https://channels.zappr.stream/schema.json`).
+Both are Zappr-compatible and validated against the official schema
+(`https://channels.zappr.stream/schema.json`):
+
+| File | Channels |
+|---|---|
+| `italy_zappr.json` | 388 Italian channels |
+| `spain_zappr.json` | 52 Spanish channels |
 
 ## Zappr list format
 
@@ -29,12 +34,12 @@ against the official schema (`https://channels.zappr.stream/schema.json`).
 
 ## Source & generation
 
-Channel data is derived from the
-[Free-TV/IPTV Italy playlist](https://github.com/Free-TV/IPTV/blob/master/lists/italy.md)
-(`playlists/playlist_italy.m3u8`) and converted to the Zappr schema:
+Channel data is derived from the [Free-TV/IPTV](https://github.com/Free-TV/IPTV)
+playlists (`playlists/playlist_italy.m3u8`, `playlists/playlist_spain.m3u8`) and
+converted to the Zappr schema:
 
 - `tvg-chno` → `lcn` (unique numbers assigned where missing)
-- `tvg-logo` → `logo` (PNG/WEBP extension stripped)
+- `tvg-logo` → `logo` (rewritten so it never ends in `.png`/`.webp`; see below)
 - stream URL → `url` (+ `type` detected from the URL)
 - `Ⓖ` marker → `geoblock: true`; non-HTTPS streams → `http: true`
 
@@ -48,6 +53,7 @@ Load the raw file URL in Zappr, or upload it directly:
 
 ```
 https://raw.githubusercontent.com/helium00/temporary-branch/main/italy_zappr.json
+https://raw.githubusercontent.com/helium00/temporary-branch/main/spain_zappr.json
 ```
 
 ## Known limitations
@@ -61,7 +67,8 @@ on each stream server, not on this file:
   CloudFront-based channels (La7, Nove, K2, Frisbee…) and most Mediaset
   channels work; **RAI** (relinker returns `403` to browsers) and geoblocked
   foreign CDNs do **not**.
-- **Geoblocking**: several streams are restricted to Italy.
+- **Geoblocking**: many streams are restricted to their country of origin
+  (Italy / Spain), so they only play from inside that country.
 - **Dead links**: some entries in the upstream source are stale (`404`).
 
 **Logos** are subject to a conflict: the schema rejects URLs ending in
