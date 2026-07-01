@@ -9,7 +9,7 @@ Both are Zappr-compatible and validated against the official schema
 
 | File | Channels |
 |---|---|
-| `italy_zappr.json` | 388 Italian channels |
+| `italy_zappr.json` | 374 Italian channels |
 | `spain_zappr.json` | 52 Spanish channels |
 
 ## Zappr list format
@@ -65,8 +65,9 @@ on each stream server, not on this file:
 - **CORS**: a channel only plays if its server sends
   `Access-Control-Allow-Origin`. Local broadcasters (`streamlock.net`),
   CloudFront-based channels (La7, Nove, K2, Frisbee…) and most Mediaset
-  channels work; **RAI** (relinker returns `403` to browsers) and geoblocked
-  foreign CDNs do **not**.
+  channels work; geoblocked foreign CDNs do **not**. RAI channels are
+  **excluded** entirely: their relinker URL is not an HLS manifest, sends no
+  CORS headers, and is geoblocked, so it cannot play in a browser player.
 - **Geoblocking**: many streams are restricted to their country of origin
   (Italy / Spain), so they only play from inside that country.
 - **Dead links**: some entries in the upstream source are stale (`404`).
