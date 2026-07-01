@@ -50,4 +50,23 @@ Load the raw file URL in Zappr, or upload it directly:
 https://raw.githubusercontent.com/helium00/temporary-branch/main/italy_zappr.json
 ```
 
+## Known limitations
+
+Zappr plays streams **directly in the browser** — it has no server-side proxy
+(the only service worker is a PWA offline fallback). Playback therefore depends
+on each stream server, not on this file:
+
+- **CORS**: a channel only plays if its server sends
+  `Access-Control-Allow-Origin`. Local broadcasters (`streamlock.net`),
+  CloudFront-based channels (La7, Nove, K2, Frisbee…) and most Mediaset
+  channels work; **RAI** (relinker returns `403` to browsers) and geoblocked
+  foreign CDNs do **not**.
+- **Geoblocking**: several streams are restricted to Italy.
+- **Dead links**: some entries in the upstream source are stale (`404`).
+
+**Logos** must keep their file extension (`.png`, `.jpg`, …). Zappr uses full
+`http(s)` logo URLs verbatim, so a URL without extension returns HTML instead of
+an image. (The published schema's "no extension" rule only applies to logos
+hosted on Zappr's own logo CDN.)
+
 > This is a temporary repository.

@@ -6,7 +6,7 @@
     {
       "lcn": 1,
       "name": "Rai 1",
-      "logo": "https://i.imgur.com/CAx7yRm",
+      "logo": "https://i.imgur.com/CAx7yRm.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -14,7 +14,7 @@
     {
       "lcn": 2,
       "name": "Rai 2",
-      "logo": "https://i.imgur.com/zA0PTcs",
+      "logo": "https://i.imgur.com/zA0PTcs.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -22,7 +22,7 @@
     {
       "lcn": 3,
       "name": "Rai 3",
-      "logo": "https://i.imgur.com/9kuQCIi",
+      "logo": "https://i.imgur.com/9kuQCIi.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -30,7 +30,7 @@
     {
       "lcn": 4,
       "name": "Rete 4",
-      "logo": "https://i.imgur.com/GWx2Fkl",
+      "logo": "https://i.imgur.com/GWx2Fkl.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8",
       "geoblock": true
@@ -38,7 +38,7 @@
     {
       "lcn": 5,
       "name": "Canale 5",
-      "logo": "https://i.imgur.com/p6YdiR1",
+      "logo": "https://i.imgur.com/p6YdiR1.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
       "geoblock": true
@@ -46,7 +46,7 @@
     {
       "lcn": 6,
       "name": "Italia 1",
-      "logo": "https://i.imgur.com/oCiOxBG",
+      "logo": "https://i.imgur.com/oCiOxBG.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8",
       "geoblock": true
@@ -54,14 +54,14 @@
     {
       "lcn": 7,
       "name": "La7",
-      "logo": "https://i.imgur.com/F90mpSa",
+      "logo": "https://i.imgur.com/F90mpSa.png",
       "type": "hls",
       "url": "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8"
     },
     {
       "lcn": 8,
       "name": "TV8",
-      "logo": "https://i.imgur.com/xvoHVOU",
+      "logo": "https://i.imgur.com/xvoHVOU.png",
       "type": "hls",
       "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
       "geoblock": true
@@ -69,28 +69,28 @@
     {
       "lcn": 9,
       "name": "Nove",
-      "logo": "https://i.imgur.com/Hp723RU",
+      "logo": "https://i.imgur.com/Hp723RU.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8"
     },
     {
       "lcn": 10,
       "name": "Sportitalia SOLOCALCIO",
-      "logo": "https://i.imgur.com/hu56Ya5",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
       "type": "hls",
       "url": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
     },
     {
       "lcn": 11,
       "name": "BIKE Channel",
-      "logo": "https://i.imgur.com/4IzVSQI",
+      "logo": "https://i.imgur.com/4IzVSQI.png",
       "type": "hls",
       "url": "https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8"
     },
     {
       "lcn": 12,
       "name": "Radio Montecarlo TV",
-      "logo": "https://i.imgur.com/3TMMXmS",
+      "logo": "https://i.imgur.com/3TMMXmS.png",
       "type": "hls",
       "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8",
       "geoblock": true
@@ -98,56 +98,56 @@
     {
       "lcn": 13,
       "name": "111 Tv",
-      "logo": "https://i.imgur.com/4jY8yAI",
+      "logo": "https://i.imgur.com/4jY8yAI.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
     },
     {
       "lcn": 14,
       "name": "12 Tv Parma",
-      "logo": "https://i.imgur.com/xnUgx6b",
+      "logo": "https://i.imgur.com/xnUgx6b.png",
       "type": "hls",
       "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
     },
     {
       "lcn": 15,
       "name": "4 You Tv",
-      "logo": "https://i.imgur.com/NN0cSbz",
+      "logo": "https://i.imgur.com/NN0cSbz.png",
       "type": "hls",
       "url": "https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8"
     },
     {
       "lcn": 16,
       "name": "Abc Tv",
-      "logo": "https://i.imgur.com/nVmIeTD",
+      "logo": "https://i.imgur.com/nVmIeTD.png",
       "type": "hls",
       "url": "https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8"
     },
     {
       "lcn": 17,
       "name": "AB Channel",
-      "logo": "https://i.imgur.com/k8EPLB9",
+      "logo": "https://i.imgur.com/k8EPLB9.png",
       "type": "hls",
       "url": "https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8"
     },
     {
       "lcn": 18,
       "name": "Alpauno",
-      "logo": "https://i.imgur.com/4QKFtUa",
+      "logo": "https://i.imgur.com/4QKFtUa.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8"
     },
     {
       "lcn": 19,
       "name": "Alto Adige Tv",
-      "logo": "https://i.imgur.com/S2sCFQi",
+      "logo": "https://i.imgur.com/S2sCFQi.png",
       "type": "hls",
       "url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
     },
     {
       "lcn": 20,
       "name": "20 Mediaset",
-      "logo": "https://i.imgur.com/It13jwX",
+      "logo": "https://i.imgur.com/It13jwX.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8",
       "geoblock": true
@@ -155,7 +155,7 @@
     {
       "lcn": 21,
       "name": "Rai 4",
-      "logo": "https://i.imgur.com/XFkZRfv",
+      "logo": "https://i.imgur.com/XFkZRfv.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -163,7 +163,7 @@
     {
       "lcn": 22,
       "name": "Iris",
-      "logo": "https://i.imgur.com/Ixz1BY3",
+      "logo": "https://i.imgur.com/Ixz1BY3.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8",
       "geoblock": true
@@ -171,7 +171,7 @@
     {
       "lcn": 23,
       "name": "Rai 5",
-      "logo": "https://i.imgur.com/Leu2zTO",
+      "logo": "https://i.imgur.com/Leu2zTO.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -179,7 +179,7 @@
     {
       "lcn": 24,
       "name": "Rai Movie",
-      "logo": "https://i.imgur.com/RKpO8CE",
+      "logo": "https://i.imgur.com/RKpO8CE.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -187,7 +187,7 @@
     {
       "lcn": 25,
       "name": "Rai Premium",
-      "logo": "https://i.imgur.com/RKI4nFy",
+      "logo": "https://i.imgur.com/RKI4nFy.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -195,7 +195,7 @@
     {
       "lcn": 26,
       "name": "Cielo",
-      "logo": "https://i.imgur.com/cPluF03",
+      "logo": "https://i.imgur.com/cPluF03.png",
       "type": "hls",
       "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
       "geoblock": true
@@ -203,7 +203,7 @@
     {
       "lcn": 27,
       "name": "27 Twentyseven",
-      "logo": "https://i.imgur.com/y2PdPCK",
+      "logo": "https://i.imgur.com/y2PdPCK.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8",
       "geoblock": true
@@ -211,21 +211,21 @@
     {
       "lcn": 28,
       "name": "TV 2000",
-      "logo": "https://i.imgur.com/x7RaK3a",
+      "logo": "https://i.imgur.com/x7RaK3a.png",
       "type": "hls",
       "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
     },
     {
       "lcn": 29,
       "name": "La7 Cinema",
-      "logo": "https://i.imgur.com/khPweok",
+      "logo": "https://i.imgur.com/khPweok.png",
       "type": "hls",
       "url": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
     },
     {
       "lcn": 30,
       "name": "La 5",
-      "logo": "https://i.imgur.com/UNyJaho",
+      "logo": "https://i.imgur.com/UNyJaho.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8",
       "geoblock": true
@@ -233,28 +233,28 @@
     {
       "lcn": 31,
       "name": "Real Time",
-      "logo": "https://i.imgur.com/9dcTYg1",
+      "logo": "https://i.imgur.com/9dcTYg1.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8"
     },
     {
       "lcn": 32,
       "name": "QVC",
-      "logo": "https://i.imgur.com/Ea7iUX2",
+      "logo": "https://i.imgur.com/Ea7iUX2.png",
       "type": "hls",
       "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
     },
     {
       "lcn": 33,
       "name": "Food Network",
-      "logo": "https://i.imgur.com/i60OYr9",
+      "logo": "https://i.imgur.com/i60OYr9.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8"
     },
     {
       "lcn": 34,
       "name": "Cine34",
-      "logo": "https://i.imgur.com/YyldwhI",
+      "logo": "https://i.imgur.com/YyldwhI.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8",
       "geoblock": true
@@ -262,7 +262,7 @@
     {
       "lcn": 35,
       "name": "Focus",
-      "logo": "https://i.imgur.com/M4smqpF",
+      "logo": "https://i.imgur.com/M4smqpF.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8",
       "geoblock": true
@@ -270,28 +270,28 @@
     {
       "lcn": 36,
       "name": "RTL 102.5",
-      "logo": "https://i.imgur.com/KdissvS",
+      "logo": "https://i.imgur.com/KdissvS.png",
       "type": "hls",
       "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8"
     },
     {
       "lcn": 37,
       "name": "Discovery Channel",
-      "logo": "https://i.imgur.com/5IxIFJ0",
+      "logo": "https://i.imgur.com/5IxIFJ0.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8"
     },
     {
       "lcn": 38,
       "name": "Giallo",
-      "logo": "https://i.imgur.com/0PIRwZS",
+      "logo": "https://i.imgur.com/0PIRwZS.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8"
     },
     {
       "lcn": 39,
       "name": "Top Crime",
-      "logo": "https://i.imgur.com/RFIwv9O",
+      "logo": "https://i.imgur.com/RFIwv9O.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8",
       "geoblock": true
@@ -299,7 +299,7 @@
     {
       "lcn": 40,
       "name": "BOING",
-      "logo": "https://i.imgur.com/niSlrqT",
+      "logo": "https://i.imgur.com/niSlrqT.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8",
       "geoblock": true
@@ -307,14 +307,14 @@
     {
       "lcn": 41,
       "name": "K2",
-      "logo": "https://i.imgur.com/wlLgSiA",
+      "logo": "https://i.imgur.com/wlLgSiA.png",
       "type": "hls",
       "url": "https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8"
     },
     {
       "lcn": 42,
       "name": "Rai Gulp",
-      "logo": "https://i.imgur.com/lu1DPVb",
+      "logo": "https://i.imgur.com/lu1DPVb.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -322,7 +322,7 @@
     {
       "lcn": 43,
       "name": "Rai YoYo",
-      "logo": "https://i.imgur.com/DRSa3ys",
+      "logo": "https://i.imgur.com/DRSa3ys.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -330,21 +330,21 @@
     {
       "lcn": 44,
       "name": "Frisbee",
-      "logo": "https://i.imgur.com/9y1zIAe",
+      "logo": "https://i.imgur.com/9y1zIAe.png",
       "type": "hls",
       "url": "https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8"
     },
     {
       "lcn": 45,
       "name": "Antenna 2 Bergamo",
-      "logo": "https://i.imgur.com/NfvHIAw",
+      "logo": "https://i.imgur.com/NfvHIAw.png",
       "type": "hls",
       "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
     },
     {
       "lcn": 46,
       "name": "Cartoonito",
-      "logo": "https://i.imgur.com/oK2DcDJ",
+      "logo": "https://i.imgur.com/oK2DcDJ.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8",
       "geoblock": true
@@ -352,14 +352,14 @@
     {
       "lcn": 47,
       "name": "Super!",
-      "logo": "https://i.imgur.com/1124YEp",
+      "logo": "https://i.imgur.com/1124YEp.png",
       "type": "hls",
       "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
     },
     {
       "lcn": 48,
       "name": "Rai News 24",
-      "logo": "https://i.imgur.com/gdzGwB6",
+      "logo": "https://i.imgur.com/gdzGwB6.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -367,7 +367,7 @@
     {
       "lcn": 49,
       "name": "Italia 2",
-      "logo": "https://i.imgur.com/nq48sjO",
+      "logo": "https://i.imgur.com/nq48sjO.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8",
       "geoblock": true
@@ -375,7 +375,7 @@
     {
       "lcn": 50,
       "name": "Sky TG24",
-      "logo": "https://i.imgur.com/q4d3Dah",
+      "logo": "https://i.imgur.com/q4d3Dah.png",
       "type": "hls",
       "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556",
       "geoblock": true
@@ -383,7 +383,7 @@
     {
       "lcn": 51,
       "name": "TGCOM 24",
-      "logo": "https://i.imgur.com/xautVD8",
+      "logo": "https://i.imgur.com/xautVD8.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8",
       "geoblock": true
@@ -391,21 +391,21 @@
     {
       "lcn": 52,
       "name": "DMAX",
-      "logo": "https://i.imgur.com/dmEmRX7",
+      "logo": "https://i.imgur.com/dmEmRX7.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8"
     },
     {
       "lcn": 53,
       "name": "Antenna 3 Massa",
-      "logo": "https://i.imgur.com/CHDU86j",
+      "logo": "https://i.imgur.com/CHDU86j.png",
       "type": "hls",
       "url": "https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8"
     },
     {
       "lcn": 54,
       "name": "Rai Storia",
-      "logo": "https://i.imgur.com/K8y5q8x",
+      "logo": "https://i.imgur.com/K8y5q8x.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -413,7 +413,7 @@
     {
       "lcn": 55,
       "name": "Mediaset Extra",
-      "logo": "https://i.imgur.com/mM8lopo",
+      "logo": "https://i.imgur.com/mM8lopo.png",
       "type": "hls",
       "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8",
       "geoblock": true
@@ -421,14 +421,14 @@
     {
       "lcn": 56,
       "name": "HGTV – Home & Garden Tv",
-      "logo": "https://i.imgur.com/emLNC0U",
+      "logo": "https://i.imgur.com/emLNC0U.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8"
     },
     {
       "lcn": 57,
       "name": "Rai Scuola",
-      "logo": "https://i.imgur.com/tmtJW6s",
+      "logo": "https://i.imgur.com/tmtJW6s.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -436,7 +436,7 @@
     {
       "lcn": 58,
       "name": "Rai Sport",
-      "logo": "https://i.imgur.com/xsGljsb",
+      "logo": "https://i.imgur.com/xsGljsb.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5",
       "geoblock": true
@@ -444,56 +444,56 @@
     {
       "lcn": 59,
       "name": "Turbo",
-      "logo": "https://i.imgur.com/TjjVjV0",
+      "logo": "https://i.imgur.com/TjjVjV0.png",
       "type": "hls",
       "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8"
     },
     {
       "lcn": 60,
       "name": "Sportitalia Plus",
-      "logo": "https://i.imgur.com/hu56Ya5",
+      "logo": "https://i.imgur.com/hu56Ya5.png",
       "type": "hls",
       "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
     },
     {
       "lcn": 61,
       "name": "Travel TV",
-      "logo": "https://i.imgur.com/aXAUyLN",
+      "logo": "https://i.imgur.com/aXAUyLN.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     },
     {
       "lcn": 62,
       "name": "Donna TV",
-      "logo": "https://i.imgur.com/Aa1Abme",
+      "logo": "https://i.imgur.com/Aa1Abme.png",
       "type": "hls",
       "url": "https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8"
     },
     {
       "lcn": 63,
       "name": "Antenna 3 Veneto Nord Est",
-      "logo": "https://i.imgur.com/NiVHLwp",
+      "logo": "https://i.imgur.com/NiVHLwp.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8"
     },
     {
       "lcn": 64,
       "name": "SuperTennis",
-      "logo": "https://i.imgur.com/GzsPlbX",
+      "logo": "https://i.imgur.com/GzsPlbX.png",
       "type": "hls",
       "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8"
     },
     {
       "lcn": 65,
       "name": "Alma TV",
-      "logo": "https://i.imgur.com/Y8JiDwN",
+      "logo": "https://i.imgur.com/Y8JiDwN.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8"
     },
     {
       "lcn": 66,
       "name": "Radio 105 TV",
-      "logo": "https://i.imgur.com/3NiLKvj",
+      "logo": "https://i.imgur.com/3NiLKvj.png",
       "type": "hls",
       "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8",
       "geoblock": true
@@ -501,7 +501,7 @@
     {
       "lcn": 67,
       "name": "R101 TV",
-      "logo": "https://i.imgur.com/mWeEa9T",
+      "logo": "https://i.imgur.com/mWeEa9T.png",
       "type": "hls",
       "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8",
       "geoblock": true
@@ -509,7 +509,7 @@
     {
       "lcn": 68,
       "name": "Virgin Radio TV",
-      "logo": "https://i.imgur.com/7Im3HI1",
+      "logo": "https://i.imgur.com/7Im3HI1.png",
       "type": "hls",
       "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8",
       "geoblock": true
@@ -517,70 +517,70 @@
     {
       "lcn": 69,
       "name": "Deejay TV",
-      "logo": "https://i.imgur.com/rlaKH6k",
+      "logo": "https://i.imgur.com/rlaKH6k.png",
       "type": "hls",
       "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
     },
     {
       "lcn": 70,
       "name": "RadioItaliaTV",
-      "logo": "https://i.imgur.com/4VCEJuJ",
+      "logo": "https://i.imgur.com/4VCEJuJ.png",
       "type": "hls",
       "url": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8"
     },
     {
       "lcn": 71,
       "name": "Antenna Sicilia",
-      "logo": "https://i.imgur.com/8DOdqsE",
+      "logo": "https://i.imgur.com/8DOdqsE.png",
       "type": "hls",
       "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8"
     },
     {
       "lcn": 72,
       "name": "Antenna Sud",
-      "logo": "https://i.imgur.com/b8y6ImZ",
+      "logo": "https://i.imgur.com/b8y6ImZ.png",
       "type": "hls",
       "url": "https://live.antennasudwebtv.it:9443/hls/vod.m3u8"
     },
     {
       "lcn": 73,
       "name": "Antenna Sud Extra",
-      "logo": "https://i.imgur.com/6tBv8VD",
+      "logo": "https://i.imgur.com/6tBv8VD.png",
       "type": "hls",
       "url": "https://live.antennasudwebtv.it:9443/hls/vod92.m3u8"
     },
     {
       "lcn": 74,
       "name": "Aristanis SuperTv",
-      "logo": "https://i.imgur.com/v8PlAJO",
+      "logo": "https://i.imgur.com/v8PlAJO.png",
       "type": "hls",
       "url": "https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8"
     },
     {
       "lcn": 75,
       "name": "Arte Network Orler",
-      "logo": "https://i.imgur.com/DP5y0Er",
+      "logo": "https://i.imgur.com/DP5y0Er.png",
       "type": "hls",
       "url": "https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8"
     },
     {
       "lcn": 76,
       "name": "Aurora Arte",
-      "logo": "https://i.imgur.com/BoLZ5wG",
+      "logo": "https://i.imgur.com/BoLZ5wG.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
     },
     {
       "lcn": 77,
       "name": "Azzurra Tv Vco",
-      "logo": "https://i.imgur.com/mSWw8uW",
+      "logo": "https://i.imgur.com/mSWw8uW.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/azzurratv/azzurratv/playlist.m3u8"
     },
     {
       "lcn": 78,
       "name": "Basilicata 1 Tv",
-      "logo": "https://i.imgur.com/VS6CQ88",
+      "logo": "https://i.imgur.com/VS6CQ88.png",
       "type": "hls",
       "url": "http://77.68.40.210:8888/hls/basilicata1.m3u8",
       "http": true
@@ -588,91 +588,91 @@
     {
       "lcn": 79,
       "name": "Bergamo Tv",
-      "logo": "https://i.imgur.com/1doR6Vl",
+      "logo": "https://i.imgur.com/1doR6Vl.png",
       "type": "hls",
       "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR"
     },
     {
       "lcn": 80,
       "name": "BOM Channel",
-      "logo": "https://i.imgur.com/hISoOK3",
+      "logo": "https://i.imgur.com/hISoOK3.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8"
     },
     {
       "lcn": 81,
       "name": "ByoBlu",
-      "logo": "https://i.imgur.com/1xaHGtU",
+      "logo": "https://i.imgur.com/1xaHGtU.png",
       "type": "hls",
       "url": "https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8"
     },
     {
       "lcn": 82,
       "name": "Cafe Tv 24",
-      "logo": "https://i.imgur.com/KbcbxFw",
+      "logo": "https://i.imgur.com/KbcbxFw.png",
       "type": "hls",
       "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
     },
     {
       "lcn": 83,
       "name": "Calabria Uno Tv",
-      "logo": "https://i.imgur.com/2TK1GQ5",
+      "logo": "https://i.imgur.com/2TK1GQ5.png",
       "type": "hls",
       "url": "https://635320cd397eb.streamlock.net/live/ngrp:calabriaunolive_all/playlist.m3u8"
     },
     {
       "lcn": 84,
       "name": "Calabria tv",
-      "logo": "https://i.imgur.com/qWirucd",
+      "logo": "https://i.imgur.com/qWirucd.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/calabriatv-clone/calabriatv-clone/playlist.m3u8"
     },
     {
       "lcn": 85,
       "name": "Canale 10",
-      "logo": "https://i.imgur.com/KuQcjYV",
+      "logo": "https://i.imgur.com/KuQcjYV.png",
       "type": "hls",
       "url": "https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8"
     },
     {
       "lcn": 86,
       "name": "Canale 2",
-      "logo": "https://i.imgur.com/ETqDkS1",
+      "logo": "https://i.imgur.com/ETqDkS1.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
     },
     {
       "lcn": 87,
       "name": "Canale 21",
-      "logo": "https://i.imgur.com/mU6Cq89",
+      "logo": "https://i.imgur.com/mU6Cq89.png",
       "type": "hls",
       "url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8"
     },
     {
       "lcn": 88,
       "name": "Canale 21 Extra",
-      "logo": "https://i.imgur.com/cDAsrBl",
+      "logo": "https://i.imgur.com/cDAsrBl.png",
       "type": "hls",
       "url": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
     },
     {
       "lcn": 89,
       "name": "Senato TV",
-      "logo": "https://i.imgur.com/FoQoNZW",
+      "logo": "https://i.imgur.com/FoQoNZW.png",
       "type": "hls",
       "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
     },
     {
       "lcn": 90,
       "name": "Camera dei Deputati",
-      "logo": "https://i.imgur.com/fqGn1k9",
+      "logo": "https://i.imgur.com/fqGn1k9.png",
       "type": "hls",
       "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
     },
     {
       "lcn": 91,
       "name": "Canale 7",
-      "logo": "https://i.imgur.com/9cuOLCn",
+      "logo": "https://i.imgur.com/9cuOLCn.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8",
       "http": true
@@ -680,21 +680,21 @@
     {
       "lcn": 92,
       "name": "Canale 74 Sicilia",
-      "logo": "https://i.imgur.com/18JIVgu",
+      "logo": "https://i.imgur.com/18JIVgu.png",
       "type": "hls",
       "url": "https://stream.cp.ets-sistemi.it:1936/canale74/canale74/playlist.m3u8"
     },
     {
       "lcn": 93,
       "name": "Canale 8 Campania",
-      "logo": "https://i.imgur.com/ElAS2WC",
+      "logo": "https://i.imgur.com/ElAS2WC.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/canale8/canale8/playlist.m3u8"
     },
     {
       "lcn": 94,
       "name": "Canale Italia",
-      "logo": "https://i.imgur.com/QlwLRyh",
+      "logo": "https://i.imgur.com/QlwLRyh.png",
       "type": "hls",
       "url": "https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8"
     },
@@ -708,21 +708,21 @@
     {
       "lcn": 96,
       "name": "Casa Italia 53",
-      "logo": "https://i.imgur.com/O4GQVCk",
+      "logo": "https://i.imgur.com/O4GQVCk.png",
       "type": "hls",
       "url": "https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8"
     },
     {
       "lcn": 97,
       "name": "Casa Sanremo Tv",
-      "logo": "https://i.imgur.com/WL3SFTs",
+      "logo": "https://i.imgur.com/WL3SFTs.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8"
     },
     {
       "lcn": 98,
       "name": "Castrovillari Tv",
-      "logo": "https://i.imgur.com/V0kjYNG",
+      "logo": "https://i.imgur.com/V0kjYNG.png",
       "type": "hls",
       "url": "http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8",
       "http": true
@@ -737,7 +737,7 @@
     {
       "lcn": 100,
       "name": "Company Tv",
-      "logo": "https://i.imgur.com/IbabUDd",
+      "logo": "https://i.imgur.com/IbabUDd.png",
       "type": "hls",
       "url": "https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8"
     },
@@ -751,21 +751,21 @@
     {
       "lcn": 102,
       "name": "Cusano Italia Tv",
-      "logo": "https://i.imgur.com/9F1sVjZ",
+      "logo": "https://i.imgur.com/9F1sVjZ.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8"
     },
     {
       "lcn": 103,
       "name": "Cusano News 7",
-      "logo": "https://i.imgur.com/L49Ie1Q",
+      "logo": "https://i.imgur.com/L49Ie1Q.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8"
     },
     {
       "lcn": 104,
       "name": "Delta Tv",
-      "logo": "https://i.imgur.com/mfwVXt7",
+      "logo": "https://i.imgur.com/mfwVXt7.png",
       "type": "hls",
       "url": "http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8",
       "http": true
@@ -773,28 +773,28 @@
     {
       "lcn": 105,
       "name": "Deluxe 139",
-      "logo": "https://i.imgur.com/kRexw3w",
+      "logo": "https://i.imgur.com/kRexw3w.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/pierstyle/pierstyle/playlist.m3u8"
     },
     {
       "lcn": 106,
       "name": "Di.Tv 80",
-      "logo": "https://i.imgur.com/kHxTsJw",
+      "logo": "https://i.imgur.com/kHxTsJw.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
     },
     {
       "lcn": 107,
       "name": "Di.Tv 92",
-      "logo": "https://i.imgur.com/g3SI08H",
+      "logo": "https://i.imgur.com/g3SI08H.png",
       "type": "hls",
       "url": "https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8"
     },
     {
       "lcn": 108,
       "name": "Digital Tv7 Benevento",
-      "logo": "https://i.imgur.com/NaQkklP",
+      "logo": "https://i.imgur.com/NaQkklP.png",
       "type": "hls",
       "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
       "http": true
@@ -802,14 +802,14 @@
     {
       "lcn": 109,
       "name": "Donna Shopping Tv",
-      "logo": "https://i.imgur.com/oLDvx2T",
+      "logo": "https://i.imgur.com/oLDvx2T.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/fascinotv/fascinotv/playlist.m3u8"
     },
     {
       "lcn": 110,
       "name": "E'live Brescia Tv",
-      "logo": "https://i.imgur.com/bZ3B7pi",
+      "logo": "https://i.imgur.com/bZ3B7pi.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
     },
@@ -823,77 +823,77 @@
     {
       "lcn": 112,
       "name": "Entella Tv",
-      "logo": "https://i.imgur.com/1VPXKrW",
+      "logo": "https://i.imgur.com/1VPXKrW.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net:443/EntellaTV/EntellaTV/playlist.m3u8"
     },
     {
       "lcn": 113,
       "name": "EQUtv",
-      "logo": "https://i.imgur.com/x9Wdz7h",
+      "logo": "https://i.imgur.com/x9Wdz7h.png",
       "type": "hls",
       "url": "https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8"
     },
     {
       "lcn": 114,
       "name": "Equos Tv",
-      "logo": "https://i.imgur.com/YwyfNDF",
+      "logo": "https://i.imgur.com/YwyfNDF.png",
       "type": "hls",
       "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/2824fb123d5e44b797232c7abf8195da/playlist.m3u8"
     },
     {
       "lcn": 115,
       "name": "Espansione Tv",
-      "logo": "https://i.imgur.com/mm9HKpD",
+      "logo": "https://i.imgur.com/mm9HKpD.png",
       "type": "hls",
       "url": "https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8"
     },
     {
       "lcn": 116,
       "name": "Esperia Tv",
-      "logo": "https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv",
+      "logo": "https://patbuweb.com/tivustream/chanlogoz/ita/esperiatv.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
     },
     {
       "lcn": 117,
       "name": "Etna Espresso Channel",
-      "logo": "https://i.imgur.com/hMUxytZ",
+      "logo": "https://i.imgur.com/hMUxytZ.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
     },
     {
       "lcn": 118,
       "name": "è Tv Marche",
-      "logo": "https://i.imgur.com/vxgbFnR",
+      "logo": "https://i.imgur.com/vxgbFnR.png",
       "type": "hls",
       "url": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
     },
     {
       "lcn": 119,
       "name": "è Tv Rete7",
-      "logo": "https://i.imgur.com/FXFzJhM",
+      "logo": "https://i.imgur.com/FXFzJhM.png",
       "type": "hls",
       "url": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
     },
     {
       "lcn": 120,
       "name": "è Tv Umbria",
-      "logo": "https://i.imgur.com/DASRCe2",
+      "logo": "https://i.imgur.com/DASRCe2.png",
       "type": "hls",
       "url": "https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8"
     },
     {
       "lcn": 121,
       "name": "Euro Tv",
-      "logo": "https://i.imgur.com/HCl5Zbu",
+      "logo": "https://i.imgur.com/HCl5Zbu.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
     },
     {
       "lcn": 122,
       "name": "Extra Tv",
-      "logo": "https://i.imgur.com/KCBurST",
+      "logo": "https://i.imgur.com/KCBurST.png",
       "type": "hls",
       "url": "https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8"
     },
@@ -907,28 +907,28 @@
     {
       "lcn": 124,
       "name": "Fano Tv",
-      "logo": "https://i.imgur.com/orqEzJ6",
+      "logo": "https://i.imgur.com/orqEzJ6.png",
       "type": "hls",
       "url": "https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8"
     },
     {
       "lcn": 125,
       "name": "Fascino Tv",
-      "logo": "https://i.imgur.com/4XYYY5B",
+      "logo": "https://i.imgur.com/4XYYY5B.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/canale157/canale157/playlist.m3u8"
     },
     {
       "lcn": 126,
       "name": "GRP Televisione",
-      "logo": "https://i.imgur.com/1zNPpVE",
+      "logo": "https://i.imgur.com/1zNPpVE.png",
       "type": "hls",
       "url": "https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8"
     },
     {
       "lcn": 127,
       "name": "GarganoTv",
-      "logo": "https://i.imgur.com/OlJohKK",
+      "logo": "https://i.imgur.com/OlJohKK.png",
       "type": "hls",
       "url": "https://cdn80-ger.azotosolutions.com:8443/cdnedge3/smil:live3.smil/playlist.m3u8"
     },
@@ -942,7 +942,7 @@
     {
       "lcn": 129,
       "name": "Giovanni Paolo Tv",
-      "logo": "https://i.imgur.com/GH5eJE6",
+      "logo": "https://i.imgur.com/GH5eJE6.png",
       "type": "hls",
       "url": "https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8"
     },
@@ -956,140 +956,140 @@
     {
       "lcn": 131,
       "name": "Globus Television",
-      "logo": "https://i.imgur.com/yUTYqCv",
+      "logo": "https://i.imgur.com/yUTYqCv.png",
       "type": "hls",
       "url": "https://cdn.cubws.com/live/globus.m3u8"
     },
     {
       "lcn": 132,
       "name": "Gold Tv",
-      "logo": "https://i.imgur.com/3rVi4kD",
+      "logo": "https://i.imgur.com/3rVi4kD.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
     },
     {
       "lcn": 133,
       "name": "GO-TV Channel",
-      "logo": "https://i.imgur.com/xgjrAAn",
+      "logo": "https://i.imgur.com/xgjrAAn.png",
       "type": "hls",
       "url": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
     },
     {
       "lcn": 134,
       "name": "GS Channel",
-      "logo": "https://i.imgur.com/ExfxCRv",
+      "logo": "https://i.imgur.com/ExfxCRv.png",
       "type": "hls",
       "url": "https://rst.saiuzwebnetwork.it:8081/retereggio/index.m3u8"
     },
     {
       "lcn": 135,
       "name": "Icaro Tv Rimini",
-      "logo": "https://i.imgur.com/z05VSSN",
+      "logo": "https://i.imgur.com/z05VSSN.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
     },
     {
       "lcn": 136,
       "name": "Idea Plus",
-      "logo": "https://i.imgur.com/2edmxYF",
+      "logo": "https://i.imgur.com/2edmxYF.png",
       "type": "hls",
       "url": "https://rst.saiuzwebnetwork.it:19360/teleidea/teleidea.m3u8"
     },
     {
       "lcn": 137,
       "name": "il61",
-      "logo": "https://i.imgur.com/1rUZsBv",
+      "logo": "https://i.imgur.com/1rUZsBv.png",
       "type": "hls",
       "url": "https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8"
     },
     {
       "lcn": 138,
       "name": "Italia 2 Tv",
-      "logo": "https://i.imgur.com/ISbxfY0",
+      "logo": "https://i.imgur.com/ISbxfY0.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
     },
     {
       "lcn": 139,
       "name": "Italia 7",
-      "logo": "https://i.imgur.com/YBXkY4w",
+      "logo": "https://i.imgur.com/YBXkY4w.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
     },
     {
       "lcn": 140,
       "name": "Italia 8 Prestige",
-      "logo": "https://i.imgur.com/uDxWI4a",
+      "logo": "https://i.imgur.com/uDxWI4a.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8"
     },
     {
       "lcn": 141,
       "name": "Italia Channel",
-      "logo": "https://i.imgur.com/zuuKXGv",
+      "logo": "https://i.imgur.com/zuuKXGv.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/italiachannel/stream/index.m3u8"
     },
     {
       "lcn": 142,
       "name": "Iunior Tv",
-      "logo": "https://i.imgur.com/9jeNlLE",
+      "logo": "https://i.imgur.com/9jeNlLE.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8"
     },
     {
       "lcn": 143,
       "name": "L'Altro Corriere Tv",
-      "logo": "https://i.imgur.com/dgj79J3",
+      "logo": "https://i.imgur.com/dgj79J3.png",
       "type": "hls",
       "url": "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8"
     },
     {
       "lcn": 144,
       "name": "La Nuova Tv",
-      "logo": "https://i.imgur.com/wg8FhdN",
+      "logo": "https://i.imgur.com/wg8FhdN.png",
       "type": "hls",
       "url": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8"
     },
     {
       "lcn": 145,
       "name": "La Tenda Tv",
-      "logo": "https://i.imgur.com/XnBp0hT",
+      "logo": "https://i.imgur.com/XnBp0hT.png",
       "type": "hls",
       "url": "https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8"
     },
     {
       "lcn": 146,
       "name": "La tr3 Marsala",
-      "logo": "https://i.imgur.com/XlxpfEx",
+      "logo": "https://i.imgur.com/XlxpfEx.png",
       "type": "hls",
       "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
     },
     {
       "lcn": 147,
       "name": "LaC News 24",
-      "logo": "https://i.imgur.com/02vCECa",
+      "logo": "https://i.imgur.com/02vCECa.png",
       "type": "hls",
       "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
     },
     {
       "lcn": 148,
       "name": "LaC Tv Calabria",
-      "logo": "https://i.imgur.com/2Ef6crS",
+      "logo": "https://i.imgur.com/2Ef6crS.png",
       "type": "hls",
       "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
     },
     {
       "lcn": 149,
       "name": "Lab Tv",
-      "logo": "https://i.imgur.com/OpRS6Fl",
+      "logo": "https://i.imgur.com/OpRS6Fl.png",
       "type": "hls",
       "url": "https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8"
     },
     {
       "lcn": 150,
       "name": "Lazio Tv",
-      "logo": "https://i.imgur.com/DAj5Uwb",
+      "logo": "https://i.imgur.com/DAj5Uwb.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
     },
@@ -1104,7 +1104,7 @@
     {
       "lcn": 152,
       "name": "Lira Tv",
-      "logo": "https://i.imgur.com/S0ReVEo",
+      "logo": "https://i.imgur.com/S0ReVEo.png",
       "type": "hls",
       "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
     },
@@ -1118,7 +1118,7 @@
     {
       "lcn": 154,
       "name": "Love in Venice",
-      "logo": "https://i.imgur.com/lLBzzce",
+      "logo": "https://i.imgur.com/lLBzzce.png",
       "type": "hls",
       "url": "http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8",
       "http": true
@@ -1126,56 +1126,56 @@
     {
       "lcn": 155,
       "name": "Lucania Tv",
-      "logo": "https://i.imgur.com/wuUNVR5",
+      "logo": "https://i.imgur.com/wuUNVR5.png",
       "type": "hls",
       "url": "https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8"
     },
     {
       "lcn": 156,
       "name": "Made in BO",
-      "logo": "https://i.imgur.com/WFnrMS0",
+      "logo": "https://i.imgur.com/WFnrMS0.png",
       "type": "hls",
       "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
     },
     {
       "lcn": 157,
       "name": "Maria Vision",
-      "logo": "https://i.imgur.com/fdx5YXi",
+      "logo": "https://i.imgur.com/fdx5YXi.png",
       "type": "hls",
       "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8"
     },
     {
       "lcn": 158,
       "name": "Radio KISS KISS TV",
-      "logo": "https://i.imgur.com/UTStxDW",
+      "logo": "https://i.imgur.com/UTStxDW.png",
       "type": "hls",
       "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8"
     },
     {
       "lcn": 159,
       "name": "Matrix Tv",
-      "logo": "https://i.imgur.com/m1HeXrn",
+      "logo": "https://i.imgur.com/m1HeXrn.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8"
     },
     {
       "lcn": 160,
       "name": "Mediterranea Tv",
-      "logo": "https://i.imgur.com/GUTOqRt",
+      "logo": "https://i.imgur.com/GUTOqRt.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/mediterraneatv/live/index.m3u8"
     },
     {
       "lcn": 161,
       "name": "Medjugorje Italia Tv",
-      "logo": "https://i.imgur.com/hkZScXf",
+      "logo": "https://i.imgur.com/hkZScXf.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
     },
     {
       "lcn": 162,
       "name": "Medjugorje Tv Puglia",
-      "logo": "https://i.imgur.com/IWBeddh",
+      "logo": "https://i.imgur.com/IWBeddh.png",
       "type": "hls",
       "url": "https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8"
     },
@@ -1189,7 +1189,7 @@
     {
       "lcn": 164,
       "name": "Motori Tv",
-      "logo": "https://i.imgur.com/NWXQKbl",
+      "logo": "https://i.imgur.com/NWXQKbl.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8"
     },
@@ -1203,63 +1203,63 @@
     {
       "lcn": 166,
       "name": "News24 City",
-      "logo": "https://i.imgur.com/dak9AtV",
+      "logo": "https://i.imgur.com/dak9AtV.png",
       "type": "direct",
       "url": "https://dc3.telesveva.com:4433/news24.mp4"
     },
     {
       "lcn": 167,
       "name": "Nuova TV Nazionale",
-      "logo": "https://i.imgur.com/QWlRuXg",
+      "logo": "https://i.imgur.com/QWlRuXg.png",
       "type": "hls",
       "url": "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
     },
     {
       "lcn": 168,
       "name": "Nuova Tv 1",
-      "logo": "https://i.imgur.com/1yqTZhR",
+      "logo": "https://i.imgur.com/1yqTZhR.png",
       "type": "hls",
       "url": "https://nuovatv.net:8443/tv/stream.m3u8"
     },
     {
       "lcn": 169,
       "name": "Nuova Tv 2",
-      "logo": "https://i.imgur.com/0vauyV3",
+      "logo": "https://i.imgur.com/0vauyV3.png",
       "type": "hls",
       "url": "https://nuovatv.net:8443/tv2/stream.m3u8"
     },
     {
       "lcn": 170,
       "name": "Nuvola Tv",
-      "logo": "https://i.imgur.com/EDGez2x",
+      "logo": "https://i.imgur.com/EDGez2x.png",
       "type": "hls",
       "url": "https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8"
     },
     {
       "lcn": 171,
       "name": "Odeon 24",
-      "logo": "https://i.imgur.com/M1tVBuH",
+      "logo": "https://i.imgur.com/M1tVBuH.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/Odeon/Odeon/manifest.m3u8"
     },
     {
       "lcn": 172,
       "name": "Ofanto Tv",
-      "logo": "https://i.imgur.com/UCgATWn",
+      "logo": "https://i.imgur.com/UCgATWn.png",
       "type": "hls",
       "url": "https://videostream.isgm.it:3276/live/tvofantolive.m3u8"
     },
     {
       "lcn": 173,
       "name": "Onda Novara Tv",
-      "logo": "https://i.imgur.com/Qoh9CFy",
+      "logo": "https://i.imgur.com/Qoh9CFy.png",
       "type": "hls",
       "url": "https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8"
     },
     {
       "lcn": 174,
       "name": "Onda Tv Sicilia",
-      "logo": "https://i.imgur.com/0c5Y6lr",
+      "logo": "https://i.imgur.com/0c5Y6lr.png",
       "type": "hls",
       "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8"
     },
@@ -1274,28 +1274,28 @@
     {
       "lcn": 176,
       "name": "Ora Tv",
-      "logo": "https://i.imgur.com/clWVrvE",
+      "logo": "https://i.imgur.com/clWVrvE.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/OraTv/OraTv/playlist.m3u8"
     },
     {
       "lcn": 177,
       "name": "Orler Tv",
-      "logo": "https://i.imgur.com/dBkxD8e",
+      "logo": "https://i.imgur.com/dBkxD8e.png",
       "type": "hls",
       "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
     },
     {
       "lcn": 178,
       "name": "Otto Channel",
-      "logo": "https://i.imgur.com/HRonD2N",
+      "logo": "https://i.imgur.com/HRonD2N.png",
       "type": "hls",
       "url": "https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8"
     },
     {
       "lcn": 179,
       "name": "Padre Pio Tv",
-      "logo": "https://i.imgur.com/7ajxEPH",
+      "logo": "https://i.imgur.com/7ajxEPH.png",
       "type": "hls",
       "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8"
     },
@@ -1309,35 +1309,35 @@
     {
       "lcn": 181,
       "name": "Parole di Vita",
-      "logo": "https://i.imgur.com/M9mIiZD",
+      "logo": "https://i.imgur.com/M9mIiZD.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8"
     },
     {
       "lcn": 182,
       "name": "Partenope Tv",
-      "logo": "https://i.imgur.com/FtuWkj1",
+      "logo": "https://i.imgur.com/FtuWkj1.png",
       "type": "hls",
       "url": "https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8"
     },
     {
       "lcn": 183,
       "name": "Peer Tv Alto Adige",
-      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige",
+      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",
       "type": "hls",
       "url": "https://iptv.peer.biz/live/peertv-it.m3u8"
     },
     {
       "lcn": 184,
       "name": "Peer TV Südtirol",
-      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol",
+      "logo": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",
       "type": "hls",
       "url": "https://iptv.peer.biz/live/peertv.m3u8"
     },
     {
       "lcn": 185,
       "name": "Pop Tv",
-      "logo": "https://i.imgur.com/TeolCu9",
+      "logo": "https://i.imgur.com/TeolCu9.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/poptelevision/live/index.m3u8"
     },
@@ -1351,14 +1351,14 @@
     {
       "lcn": 187,
       "name": "Prima Tv Sicilia",
-      "logo": "https://i.imgur.com/br45JER",
+      "logo": "https://i.imgur.com/br45JER.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
     },
     {
       "lcn": 188,
       "name": "PrimaFREE",
-      "logo": "https://i.imgur.com/YrSSmOL",
+      "logo": "https://i.imgur.com/YrSSmOL.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
     },
@@ -1372,21 +1372,21 @@
     {
       "lcn": 190,
       "name": "Primocanale",
-      "logo": "https://i.imgur.com/xWF1A1U",
+      "logo": "https://i.imgur.com/xWF1A1U.png",
       "type": "hls",
       "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
     },
     {
       "lcn": 191,
       "name": "Promovideo Tv",
-      "logo": "https://i.imgur.com/MwK9HVG",
+      "logo": "https://i.imgur.com/MwK9HVG.png",
       "type": "hls",
       "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
     },
     {
       "lcn": 192,
       "name": "Quarto Canale Flegreo",
-      "logo": "https://i.imgur.com/8RKY3Du",
+      "logo": "https://i.imgur.com/8RKY3Du.png",
       "type": "hls",
       "url": "http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8",
       "http": true
@@ -1394,70 +1394,70 @@
     {
       "lcn": 193,
       "name": "Radio 3M InBlu",
-      "logo": "https://i.imgur.com/d7O7Uqa",
+      "logo": "https://i.imgur.com/d7O7Uqa.png",
       "type": "hls",
       "url": "https://stream.mariatvcdn.com/telemistrettaradio/900bfcc0f9012ea272584fd5ff5281b8.sdp/playlist.m3u8"
     },
     {
       "lcn": 194,
       "name": "Radio 51 Tv",
-      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radio51",
+      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radio51.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/chunklist_w1193883900.m3u8"
     },
     {
       "lcn": 195,
       "name": "Radio Birikina Tv",
-      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radiobirikina",
+      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radiobirikina.png",
       "type": "hls",
       "url": "https://tvd-bk.fluid.stream/RadioBirikinaTV/livestream/chunklist_w84398277.m3u8"
     },
     {
       "lcn": 196,
       "name": "Radio Bruno Tv",
-      "logo": "https://i.imgur.com/y4vKE83",
+      "logo": "https://i.imgur.com/y4vKE83.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8"
     },
     {
       "lcn": 197,
       "name": "Radio Ibiza",
-      "logo": "https://i.imgur.com/uu0DHY5",
+      "logo": "https://i.imgur.com/uu0DHY5.png",
       "type": "hls",
       "url": "https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8"
     },
     {
       "lcn": 198,
       "name": "Radio Immagine Tv",
-      "logo": "https://i.imgur.com/iQlXRAB",
+      "logo": "https://i.imgur.com/iQlXRAB.png",
       "type": "hls",
       "url": "https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8"
     },
     {
       "lcn": 199,
       "name": "Radio Italia Cina Tv",
-      "logo": "https://i.imgur.com/QGkyrO3",
+      "logo": "https://i.imgur.com/QGkyrO3.png",
       "type": "hls",
       "url": "https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8"
     },
     {
       "lcn": 200,
       "name": "Radio Libertà",
-      "logo": "https://i.imgur.com/HRvPlf5",
+      "logo": "https://i.imgur.com/HRvPlf5.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8"
     },
     {
       "lcn": 201,
       "name": "Radio m2o Tv",
-      "logo": "https://i.imgur.com/wl30UFj",
+      "logo": "https://i.imgur.com/wl30UFj.png",
       "type": "hls",
       "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
     },
     {
       "lcn": 202,
       "name": "Rai Radio 2 Visual Radio",
-      "logo": "https://i.imgur.com/nVBet0h",
+      "logo": "https://i.imgur.com/nVBet0h.png",
       "type": "hls",
       "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5"
     },
@@ -1471,49 +1471,49 @@
     {
       "lcn": 204,
       "name": "Radio Norba Tv",
-      "logo": "https://i.imgur.com/qftBPM9",
+      "logo": "https://i.imgur.com/qftBPM9.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8"
     },
     {
       "lcn": 205,
       "name": "Radio Piter Pan Tv",
-      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan",
+      "logo": "https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png",
       "type": "hls",
       "url": "https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8"
     },
     {
       "lcn": 206,
       "name": "Radio Radio Tv",
-      "logo": "https://i.imgur.com/iKuRg2b",
+      "logo": "https://i.imgur.com/iKuRg2b.png",
       "type": "hls",
       "url": "https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe1411ed919df3da85a483cc/rewind-14400.m3u8"
     },
     {
       "lcn": 207,
       "name": "Radio Radiosa Tv",
-      "logo": "https://i.imgur.com/8kqyxvz",
+      "logo": "https://i.imgur.com/8kqyxvz.png",
       "type": "hls",
       "url": "https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8"
     },
     {
       "lcn": 208,
       "name": "Radio Roma",
-      "logo": "https://i.imgur.com/RKvfStm",
+      "logo": "https://i.imgur.com/RKvfStm.png",
       "type": "hls",
       "url": "https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8"
     },
     {
       "lcn": 209,
       "name": "Radio Roma Television",
-      "logo": "https://i.imgur.com/RKvfStm",
+      "logo": "https://i.imgur.com/RKvfStm.png",
       "type": "hls",
       "url": "https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8"
     },
     {
       "lcn": 210,
       "name": "Rai 4K",
-      "logo": "https://i.imgur.com/5gkt9DD",
+      "logo": "https://i.imgur.com/5gkt9DD.png",
       "type": "hls",
       "url": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
       "geoblock": true
@@ -1521,35 +1521,35 @@
     {
       "lcn": 211,
       "name": "Ran Friul",
-      "logo": "https://i.imgur.com/Qs5eQPM",
+      "logo": "https://i.imgur.com/Qs5eQPM.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/RanFriul/RanFriul/playlist.m3u8"
     },
     {
       "lcn": 212,
       "name": "RDE Tv",
-      "logo": "https://i.imgur.com/NiwPlrr",
+      "logo": "https://i.imgur.com/NiwPlrr.png",
       "type": "hls",
       "url": "https://rst2.saiuzwebnetwork.it:8081/rdetrieste/index.m3u8"
     },
     {
       "lcn": 213,
       "name": "Reggio Tv",
-      "logo": "https://i.imgur.com/merrg2C",
+      "logo": "https://i.imgur.com/merrg2C.png",
       "type": "hls",
       "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
     },
     {
       "lcn": 214,
       "name": "Rei Tv",
-      "logo": "https://i.imgur.com/YNRWFOo",
+      "logo": "https://i.imgur.com/YNRWFOo.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8"
     },
     {
       "lcn": 215,
       "name": "Rete 55",
-      "logo": "https://i.imgur.com/EsZn2cj",
+      "logo": "https://i.imgur.com/EsZn2cj.png",
       "type": "hls",
       "url": "https://live1.giocabet.tv/stream/6/index.m3u8"
     },
@@ -1563,56 +1563,56 @@
     {
       "lcn": 217,
       "name": "Rete 8",
-      "logo": "https://i.imgur.com/bGsjPRh",
+      "logo": "https://i.imgur.com/bGsjPRh.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
     },
     {
       "lcn": 218,
       "name": "Rete 8 Sport",
-      "logo": "https://i.imgur.com/uUAjWlF",
+      "logo": "https://i.imgur.com/uUAjWlF.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8"
     },
     {
       "lcn": 219,
       "name": "Rete Biella Tv",
-      "logo": "https://i.imgur.com/e2ryHx7",
+      "logo": "https://i.imgur.com/e2ryHx7.png",
       "type": "hls",
       "url": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
     },
     {
       "lcn": 220,
       "name": "Rete Mia",
-      "logo": "https://i.imgur.com/kCJ621Q",
+      "logo": "https://i.imgur.com/kCJ621Q.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8"
     },
     {
       "lcn": 221,
       "name": "Rete Oro Tv",
-      "logo": "https://i.imgur.com/OCxGtwA",
+      "logo": "https://i.imgur.com/OCxGtwA.png",
       "type": "hls",
       "url": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
     },
     {
       "lcn": 222,
       "name": "Rete Sole",
-      "logo": "https://i.imgur.com/u0ezKgE",
+      "logo": "https://i.imgur.com/u0ezKgE.png",
       "type": "hls",
       "url": "https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8"
     },
     {
       "lcn": 223,
       "name": "Rete Tv Italia",
-      "logo": "https://i.imgur.com/lXGWoV9",
+      "logo": "https://i.imgur.com/lXGWoV9.png",
       "type": "hls",
       "url": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
     },
     {
       "lcn": 224,
       "name": "Rete Veneta",
-      "logo": "https://i.imgur.com/cInhQFp",
+      "logo": "https://i.imgur.com/cInhQFp.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it/reteveneta/reteveneta/playlist.m3u8",
       "http": true
@@ -1620,7 +1620,7 @@
     {
       "lcn": 225,
       "name": "Roma Tv 82",
-      "logo": "https://i.imgur.com/C3UnlFF",
+      "logo": "https://i.imgur.com/C3UnlFF.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8"
     },
@@ -1634,7 +1634,7 @@
     {
       "lcn": 227,
       "name": "RTC Quarta Rete",
-      "logo": "https://i.imgur.com/rFGA6qL",
+      "logo": "https://i.imgur.com/rFGA6qL.png",
       "type": "hls",
       "url": "https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8"
     },
@@ -1655,21 +1655,21 @@
     {
       "lcn": 230,
       "name": "RTL 102.5 + Plus",
-      "logo": "https://i.imgur.com/mPqDtCO",
+      "logo": "https://i.imgur.com/mPqDtCO.png",
       "type": "hls",
       "url": "https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/cAcsSu4Wecc5/chunklist_b5256000.m3u8"
     },
     {
       "lcn": 231,
       "name": "RTM Manduria",
-      "logo": "https://i.imgur.com/WwzU0EP",
+      "logo": "https://i.imgur.com/WwzU0EP.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
     },
     {
       "lcn": 232,
       "name": "RTR99 Tv",
-      "logo": "https://i.imgur.com/mkO95pD",
+      "logo": "https://i.imgur.com/mkO95pD.png",
       "type": "hls",
       "url": "https://5e73cf528f404.streamlock.net/RTR99TV/livestream/playlist.m3u8"
     },
@@ -1683,7 +1683,7 @@
     {
       "lcn": 234,
       "name": "Rtp Tv",
-      "logo": "https://i.imgur.com/I1hYI0C",
+      "logo": "https://i.imgur.com/I1hYI0C.png",
       "type": "hls",
       "url": "http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
       "http": true
@@ -1691,21 +1691,21 @@
     {
       "lcn": 235,
       "name": "Rttr",
-      "logo": "https://i.imgur.com/z7xMArA",
+      "logo": "https://i.imgur.com/z7xMArA.png",
       "type": "hls",
       "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
     },
     {
       "lcn": 236,
       "name": "MAN-GA",
-      "logo": "https://i.imgur.com/8a6WYU2",
+      "logo": "https://i.imgur.com/8a6WYU2.png",
       "type": "hls",
       "url": "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u"
     },
     {
       "lcn": 237,
       "name": "Rtv 38 Toscana",
-      "logo": "https://i.imgur.com/xqlhJqK",
+      "logo": "https://i.imgur.com/xqlhJqK.png",
       "type": "hls",
       "url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8"
     },
@@ -1720,63 +1720,63 @@
     {
       "lcn": 239,
       "name": "ST Europe Channel",
-      "logo": "https://i.imgur.com/QpPgSfr",
+      "logo": "https://i.imgur.com/QpPgSfr.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
     },
     {
       "lcn": 240,
       "name": "Sardegna 1",
-      "logo": "https://i.imgur.com/YNEW2h2",
+      "logo": "https://i.imgur.com/YNEW2h2.png",
       "type": "hls",
       "url": "https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8"
     },
     {
       "lcn": 241,
       "name": "Set Tv Cilento",
-      "logo": "https://i.imgur.com/qN5D1jD",
+      "logo": "https://i.imgur.com/qN5D1jD.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/settv/live/index.m3u8"
     },
     {
       "lcn": 242,
       "name": "Sesta Rete",
-      "logo": "https://i.imgur.com/0B0S2gI",
+      "logo": "https://i.imgur.com/0B0S2gI.png",
       "type": "hls",
       "url": "https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8"
     },
     {
       "lcn": 243,
       "name": "Sicilia 24 Tv",
-      "logo": "https://i.imgur.com/GhQX36O",
+      "logo": "https://i.imgur.com/GhQX36O.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8"
     },
     {
       "lcn": 244,
       "name": "Sicilia Tv",
-      "logo": "https://i.imgur.com/I5FoThW",
+      "logo": "https://i.imgur.com/I5FoThW.png",
       "type": "hls",
       "url": "https://stream9.xdevel.com/video0s976441-1226/stream/playlist.m3u8"
     },
     {
       "lcn": 245,
       "name": "Sienatv",
-      "logo": "https://i.imgur.com/gcysky4",
+      "logo": "https://i.imgur.com/gcysky4.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8"
     },
     {
       "lcn": 246,
       "name": "Radio24-IlSole24OreTV",
-      "logo": "https://i.imgur.com/NTqrdWW",
+      "logo": "https://i.imgur.com/NTqrdWW.png",
       "type": "hls",
       "url": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8"
     },
     {
       "lcn": 247,
       "name": "BeJoy.Kids",
-      "logo": "https://i.imgur.com/zuR9Go5",
+      "logo": "https://i.imgur.com/zuR9Go5.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8"
     },
@@ -1790,28 +1790,28 @@
     {
       "lcn": 249,
       "name": "Stiletv",
-      "logo": "https://i.imgur.com/ZP3cJi7",
+      "logo": "https://i.imgur.com/ZP3cJi7.png",
       "type": "hls",
       "url": "https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8"
     },
     {
       "lcn": 250,
       "name": "Super J Tv",
-      "logo": "https://i.imgur.com/5oy5Nuu",
+      "logo": "https://i.imgur.com/5oy5Nuu.png",
       "type": "hls",
       "url": "https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8"
     },
     {
       "lcn": 251,
       "name": "Super Six",
-      "logo": "https://i.imgur.com/kHSuyub",
+      "logo": "https://i.imgur.com/kHSuyub.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
     },
     {
       "lcn": 252,
       "name": "Supertv",
-      "logo": "https://i.imgur.com/7gUZcEh",
+      "logo": "https://i.imgur.com/7gUZcEh.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
       "http": true
@@ -1819,7 +1819,7 @@
     {
       "lcn": 253,
       "name": "T9",
-      "logo": "https://i.imgur.com/XzL05Py",
+      "logo": "https://i.imgur.com/XzL05Py.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
     },
@@ -1833,35 +1833,35 @@
     {
       "lcn": 255,
       "name": "TRL Tele Radio Leo",
-      "logo": "https://i.imgur.com/qAagkJT",
+      "logo": "https://i.imgur.com/qAagkJT.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8"
     },
     {
       "lcn": 256,
       "name": "TSD Tv Arezzo(Tele San Domenico)",
-      "logo": "https://i.imgur.com/WQ8eQXc",
+      "logo": "https://i.imgur.com/WQ8eQXc.png",
       "type": "hls",
       "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8"
     },
     {
       "lcn": 257,
       "name": "Gambero Rosso",
-      "logo": "https://i.imgur.com/RApMW5x",
+      "logo": "https://i.imgur.com/RApMW5x.png",
       "type": "hls",
       "url": "https://2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8"
     },
     {
       "lcn": 258,
       "name": "RadioFreccia",
-      "logo": "https://i.imgur.com/J5N9F7Z",
+      "logo": "https://i.imgur.com/J5N9F7Z.png",
       "type": "hls",
       "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8"
     },
     {
       "lcn": 259,
       "name": "TVL (TV Libera Pistoia)",
-      "logo": "https://i.imgur.com/07geF0L",
+      "logo": "https://i.imgur.com/07geF0L.png",
       "type": "hls",
       "url": "http://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8",
       "http": true
@@ -1883,7 +1883,7 @@
     {
       "lcn": 262,
       "name": "Teatro Tv",
-      "logo": "https://i.imgur.com/UsvffQL",
+      "logo": "https://i.imgur.com/UsvffQL.png",
       "type": "hls",
       "url": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
     },
@@ -1905,49 +1905,49 @@
     {
       "lcn": 265,
       "name": "RDS Social TV",
-      "logo": "https://i.imgur.com/TY6FhqI",
+      "logo": "https://i.imgur.com/TY6FhqI.png",
       "type": "hls",
       "url": "https://stream.rdstv.radio/index.m3u8"
     },
     {
       "lcn": 266,
       "name": "Radio ZETA",
-      "logo": "https://i.imgur.com/0MgCm1n",
+      "logo": "https://i.imgur.com/0MgCm1n.png",
       "type": "hls",
       "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8"
     },
     {
       "lcn": 267,
       "name": "Tele Acras",
-      "logo": "https://i.imgur.com/90Lsv8q",
+      "logo": "https://i.imgur.com/90Lsv8q.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/teleacras/teleacras/playlist.m3u8"
     },
     {
       "lcn": 268,
       "name": "Tele Arena",
-      "logo": "https://i.imgur.com/9hsoWMO",
+      "logo": "https://i.imgur.com/9hsoWMO.png",
       "type": "hls",
       "url": "https://5e73cf528f404.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
     },
     {
       "lcn": 269,
       "name": "Tele Bari",
-      "logo": "https://i.imgur.com/HYSz4rx",
+      "logo": "https://i.imgur.com/HYSz4rx.png",
       "type": "hls",
       "url": "https://w1.mediastreaming.it/telebari/livestream/playlist.m3u8"
     },
     {
       "lcn": 270,
       "name": "Tele Belluno",
-      "logo": "https://i.imgur.com/YiM2Z7E",
+      "logo": "https://i.imgur.com/YiM2Z7E.png",
       "type": "hls",
       "url": "https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8"
     },
     {
       "lcn": 271,
       "name": "Tele Boario",
-      "logo": "https://i.imgur.com/LlLD3L6",
+      "logo": "https://i.imgur.com/LlLD3L6.png",
       "type": "hls",
       "url": "https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8"
     },
@@ -1961,7 +1961,7 @@
     {
       "lcn": 273,
       "name": "Tele Chiara",
-      "logo": "https://i.imgur.com/Q5XpnXR",
+      "logo": "https://i.imgur.com/Q5XpnXR.png",
       "type": "hls",
       "url": "http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8",
       "http": true
@@ -1969,28 +1969,28 @@
     {
       "lcn": 274,
       "name": "Telecolor",
-      "logo": "https://i.imgur.com/urUG78J",
+      "logo": "https://i.imgur.com/urUG78J.png",
       "type": "hls",
       "url": "https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8"
     },
     {
       "lcn": 275,
       "name": "Telecolor Sicilia",
-      "logo": "https://i.imgur.com/rfNg6fw",
+      "logo": "https://i.imgur.com/rfNg6fw.png",
       "type": "hls",
       "url": "https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/telecolor/master.m3u8"
     },
     {
       "lcn": 276,
       "name": "Tele Cupole",
-      "logo": "https://i.imgur.com/ZmUI9zb",
+      "logo": "https://i.imgur.com/ZmUI9zb.png",
       "type": "hls",
       "url": "https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8"
     },
     {
       "lcn": 277,
       "name": "Tele Estense",
-      "logo": "https://i.imgur.com/X7i7DWo",
+      "logo": "https://i.imgur.com/X7i7DWo.png",
       "type": "hls",
       "url": "https://5e73cf528f404.streamlock.net/TeleEstense/livestream/playlist.m3u8"
     },
@@ -2004,7 +2004,7 @@
     {
       "lcn": 279,
       "name": "Tele Friuli",
-      "logo": "https://i.imgur.com/AoQxZxD",
+      "logo": "https://i.imgur.com/AoQxZxD.png",
       "type": "hls",
       "url": "https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8"
     },
@@ -2018,7 +2018,7 @@
     {
       "lcn": 281,
       "name": "Tele Jonio",
-      "logo": "https://i.imgur.com/qJeDV8R",
+      "logo": "https://i.imgur.com/qJeDV8R.png",
       "type": "hls",
       "url": "http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8",
       "http": true
@@ -2040,35 +2040,35 @@
     {
       "lcn": 284,
       "name": "Tele Mantova",
-      "logo": "https://i.imgur.com/bkSPcs4",
+      "logo": "https://i.imgur.com/bkSPcs4.png",
       "type": "hls",
       "url": "https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8"
     },
     {
       "lcn": 285,
       "name": "Tele Mia",
-      "logo": "https://i.imgur.com/SdXpCwL",
+      "logo": "https://i.imgur.com/SdXpCwL.png",
       "type": "hls",
       "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8"
     },
     {
       "lcn": 286,
       "name": "Tele Mia Extra",
-      "logo": "https://i.imgur.com/upzBG32",
+      "logo": "https://i.imgur.com/upzBG32.png",
       "type": "hls",
       "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8"
     },
     {
       "lcn": 287,
       "name": "Tele Mistretta",
-      "logo": "https://i.imgur.com/OJ3zUS0",
+      "logo": "https://i.imgur.com/OJ3zUS0.png",
       "type": "hls",
       "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8"
     },
     {
       "lcn": 288,
       "name": "Tele Molise",
-      "logo": "https://i.imgur.com/u5VD0x9",
+      "logo": "https://i.imgur.com/u5VD0x9.png",
       "type": "hls",
       "url": "http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8",
       "http": true
@@ -2076,28 +2076,28 @@
     {
       "lcn": 289,
       "name": "Tele Nord Genova",
-      "logo": "https://i.imgur.com/I6yegEK",
+      "logo": "https://i.imgur.com/I6yegEK.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8"
     },
     {
       "lcn": 290,
       "name": "Tele Nostra",
-      "logo": "https://i.imgur.com/FACahKZ",
+      "logo": "https://i.imgur.com/FACahKZ.png",
       "type": "hls",
       "url": "https://13574-8.b.cdn12.com/hls/f099fa8883.ulive/_c/master.m3u8"
     },
     {
       "lcn": 291,
       "name": "Tele Occidente",
-      "logo": "https://i.imgur.com/3aOiWKa",
+      "logo": "https://i.imgur.com/3aOiWKa.png",
       "type": "hls",
       "url": "https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8"
     },
     {
       "lcn": 292,
       "name": "Tele Oltre",
-      "logo": "https://i.imgur.com/PxtJAxs",
+      "logo": "https://i.imgur.com/PxtJAxs.png",
       "type": "hls",
       "url": "http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8",
       "http": true
@@ -2105,21 +2105,21 @@
     {
       "lcn": 293,
       "name": "Tele One",
-      "logo": "https://i.imgur.com/9trB6mj",
+      "logo": "https://i.imgur.com/9trB6mj.png",
       "type": "hls",
       "url": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
     },
     {
       "lcn": 294,
       "name": "Tele Pace Trento",
-      "logo": "https://i.imgur.com/o5sQCpF",
+      "logo": "https://i.imgur.com/o5sQCpF.png",
       "type": "hls",
       "url": "https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8"
     },
     {
       "lcn": 295,
       "name": "Tele Pavia",
-      "logo": "https://i.imgur.com/YVodo4T",
+      "logo": "https://i.imgur.com/YVodo4T.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8",
       "http": true
@@ -2127,28 +2127,28 @@
     {
       "lcn": 296,
       "name": "Tele Pegaso",
-      "logo": "https://i.imgur.com/FQkM8Vd",
+      "logo": "https://i.imgur.com/FQkM8Vd.png",
       "type": "hls",
       "url": "https://flash2.xdevel.com/telepegasocanale812/telepegasocanale812/playlist.m3u8"
     },
     {
       "lcn": 297,
       "name": "Tele Piadena",
-      "logo": "https://i.imgur.com/VqaPuQN",
+      "logo": "https://i.imgur.com/VqaPuQN.png",
       "type": "hls",
       "url": "https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8"
     },
     {
       "lcn": 298,
       "name": "Tele Pordenone",
-      "logo": "https://i.imgur.com/dbYwXwg",
+      "logo": "https://i.imgur.com/dbYwXwg.png",
       "type": "hls",
       "url": "https://video.wifi4all.it/telepn/telepn.m3u8"
     },
     {
       "lcn": 299,
       "name": "Tele Quattro Trieste",
-      "logo": "https://i.imgur.com/MFxQxve",
+      "logo": "https://i.imgur.com/MFxQxve.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8",
       "http": true
@@ -2163,91 +2163,91 @@
     {
       "lcn": 301,
       "name": "Tele Radio Pace 1",
-      "logo": "https://i.imgur.com/ORkkXM8",
+      "logo": "https://i.imgur.com/ORkkXM8.png",
       "type": "hls",
       "url": "https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8"
     },
     {
       "lcn": 302,
       "name": "Tele Radio Pace 2",
-      "logo": "https://i.imgur.com/U4E3eEr",
+      "logo": "https://i.imgur.com/U4E3eEr.png",
       "type": "hls",
       "url": "https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8"
     },
     {
       "lcn": 303,
       "name": "Tele Radio Pace 3",
-      "logo": "https://i.imgur.com/pTqIxFD",
+      "logo": "https://i.imgur.com/pTqIxFD.png",
       "type": "hls",
       "url": "https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8"
     },
     {
       "lcn": 304,
       "name": "Tele Radio Pace 4",
-      "logo": "https://i.imgur.com/KPHHsN5",
+      "logo": "https://i.imgur.com/KPHHsN5.png",
       "type": "hls",
       "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8"
     },
     {
       "lcn": 305,
       "name": "Tele Radio Orte",
-      "logo": "https://i.imgur.com/uX2uxvN",
+      "logo": "https://i.imgur.com/uX2uxvN.png",
       "type": "hls",
       "url": "https://flash2.xdevel.com/ortetv/ortetv/index.m3u8"
     },
     {
       "lcn": 306,
       "name": "Tele Radio Sciacca",
-      "logo": "https://i.imgur.com/suhz5mE",
+      "logo": "https://i.imgur.com/suhz5mE.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/teleradiosciaccatv/teleradiosciaccatv/playlist.m3u8"
     },
     {
       "lcn": 307,
       "name": "Tele Sirio",
-      "logo": "https://i.imgur.com/mDN6QX1",
+      "logo": "https://i.imgur.com/mDN6QX1.png",
       "type": "hls",
       "url": "https://www.telesirio.it/live/stream.m3u8"
     },
     {
       "lcn": 308,
       "name": "Tele Spazio Messina",
-      "logo": "https://i.imgur.com/Io5w6lT",
+      "logo": "https://i.imgur.com/Io5w6lT.png",
       "type": "hls",
       "url": "https://rtm.cyberspazio.cloud:5443/LiveApp/streams/049229794390395765037801.m3u8"
     },
     {
       "lcn": 309,
       "name": "Tele Sud Puglia",
-      "logo": "https://i.imgur.com/fqTLtvs",
+      "logo": "https://i.imgur.com/fqTLtvs.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/telesud/telesud/playlist.m3u8"
     },
     {
       "lcn": 310,
       "name": "Tele Tricolore",
-      "logo": "https://i.imgur.com/A2XouAd",
+      "logo": "https://i.imgur.com/A2XouAd.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8"
     },
     {
       "lcn": 311,
       "name": "Tele Tutto",
-      "logo": "https://i.imgur.com/sZxMP7g",
+      "logo": "https://i.imgur.com/sZxMP7g.png",
       "type": "hls",
       "url": "https://600f07e114306.streamlock.net/TT_TELETUTTO/smil:TT.smil/playlist.m3u8"
     },
     {
       "lcn": 312,
       "name": "Tele Tutto 2",
-      "logo": "https://i.imgur.com/mxXbMaw",
+      "logo": "https://i.imgur.com/mxXbMaw.png",
       "type": "hls",
       "url": "https://600f07e114306.streamlock.net/TT2_TELETUTTO/livestream/playlist.m3u8"
     },
     {
       "lcn": 313,
       "name": "Tele Tutto 24",
-      "logo": "https://i.imgur.com/weKWQgx",
+      "logo": "https://i.imgur.com/weKWQgx.png",
       "type": "hls",
       "url": "https://600f07e114306.streamlock.net/TT24_TELETUTTO/livestream/playlist.m3u8"
     },
@@ -2261,28 +2261,28 @@
     {
       "lcn": 315,
       "name": "Tele Video Agrigento (T.V.A.)",
-      "logo": "https://i.imgur.com/AaPr63E",
+      "logo": "https://i.imgur.com/AaPr63E.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8"
     },
     {
       "lcn": 316,
       "name": "Tele8 Tv",
-      "logo": "https://i.imgur.com/dM0HE6O",
+      "logo": "https://i.imgur.com/dM0HE6O.png",
       "type": "hls",
       "url": "https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8"
     },
     {
       "lcn": 317,
       "name": "TeleAmbiente",
-      "logo": "https://i.imgur.com/jxZcQhU",
+      "logo": "https://i.imgur.com/jxZcQhU.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8"
     },
     {
       "lcn": 318,
       "name": "Telecampione",
-      "logo": "https://i.imgur.com/LhjwmME",
+      "logo": "https://i.imgur.com/LhjwmME.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8"
     },
@@ -2317,42 +2317,42 @@
     {
       "lcn": 323,
       "name": "TeleCostaSmeralda",
-      "logo": "https://i.imgur.com/QLqkbss",
+      "logo": "https://i.imgur.com/QLqkbss.png",
       "type": "hls",
       "url": "https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8"
     },
     {
       "lcn": 324,
       "name": "Telegenova",
-      "logo": "https://i.imgur.com/D6HC0So",
+      "logo": "https://i.imgur.com/D6HC0So.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8"
     },
     {
       "lcn": 325,
       "name": "Teleiblea",
-      "logo": "https://i.imgur.com/n1THygZ",
+      "logo": "https://i.imgur.com/n1THygZ.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8"
     },
     {
       "lcn": 326,
       "name": "Teleitalia 41",
-      "logo": "https://i.imgur.com/lTuPSOn",
+      "logo": "https://i.imgur.com/lTuPSOn.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/teleitalia/teleitalia/playlist.m3u8"
     },
     {
       "lcn": 327,
       "name": "Telejato",
-      "logo": "https://i.imgur.com/r3Dqzdj",
+      "logo": "https://i.imgur.com/r3Dqzdj.png",
       "type": "hls",
       "url": "https://telejato.liberotratto.com/hls/stream.m3u8"
     },
     {
       "lcn": 328,
       "name": "Teleleonessa",
-      "logo": "https://i.imgur.com/jq3etlV",
+      "logo": "https://i.imgur.com/jq3etlV.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8",
       "http": true
@@ -2367,7 +2367,7 @@
     {
       "lcn": 330,
       "name": "Telenova",
-      "logo": "https://i.imgur.com/x41IkJK",
+      "logo": "https://i.imgur.com/x41IkJK.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8"
     },
@@ -2381,63 +2381,63 @@
     {
       "lcn": 332,
       "name": "TeleRegione",
-      "logo": "https://i.imgur.com/i5WozUP",
+      "logo": "https://i.imgur.com/i5WozUP.png",
       "type": "hls",
       "url": "https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8"
     },
     {
       "lcn": 333,
       "name": "TeleRegione Color",
-      "logo": "https://i.imgur.com/vi5Nf3S",
+      "logo": "https://i.imgur.com/vi5Nf3S.png",
       "type": "hls",
       "url": "https://live.antennasudwebtv.it:9443/hls/vodtele.m3u8"
     },
     {
       "lcn": 334,
       "name": "TeleRegione Live",
-      "logo": "https://i.imgur.com/DBrt8L3",
+      "logo": "https://i.imgur.com/DBrt8L3.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8"
     },
     {
       "lcn": 335,
       "name": "TeleRent 7Gold",
-      "logo": "https://i.imgur.com/YZadq0M",
+      "logo": "https://i.imgur.com/YZadq0M.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s86-21/stream/playlist.m3u8"
     },
     {
       "lcn": 336,
       "name": "Telereporter",
-      "logo": "https://i.imgur.com/WIo6SPc",
+      "logo": "https://i.imgur.com/WIo6SPc.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8"
     },
     {
       "lcn": 337,
       "name": "Teleromagna",
-      "logo": "https://i.imgur.com/4jWadI8",
+      "logo": "https://i.imgur.com/4jWadI8.png",
       "type": "hls",
       "url": "https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8"
     },
     {
       "lcn": 338,
       "name": "Teleromagna 24",
-      "logo": "https://i.imgur.com/Bpml478",
+      "logo": "https://i.imgur.com/Bpml478.png",
       "type": "hls",
       "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
     },
     {
       "lcn": 339,
       "name": "TeleRomaDue",
-      "logo": "https://i.imgur.com/78hA7ma",
+      "logo": "https://i.imgur.com/78hA7ma.png",
       "type": "hls",
       "url": "https://57068da1deb21.streamlock.net/teletibur/teletibur/playlist.m3u8"
     },
     {
       "lcn": 340,
       "name": "Telesud Trapani",
-      "logo": "https://i.imgur.com/tpZvU1P",
+      "logo": "https://i.imgur.com/tpZvU1P.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/telesudtrapani/telesudtrapani/playlist.m3u8"
     },
@@ -2451,35 +2451,35 @@
     {
       "lcn": 342,
       "name": "Teleuniverso",
-      "logo": "https://i.imgur.com/u8E9wBb",
+      "logo": "https://i.imgur.com/u8E9wBb.png",
       "type": "hls",
       "url": "https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8"
     },
     {
       "lcn": 343,
       "name": "Televallo Trapani",
-      "logo": "https://i.imgur.com/P6zuiRH",
+      "logo": "https://i.imgur.com/P6zuiRH.png",
       "type": "hls",
       "url": "https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8"
     },
     {
       "lcn": 344,
       "name": "TG Norba 24",
-      "logo": "https://i.imgur.com/9MhrrJK",
+      "logo": "https://i.imgur.com/9MhrrJK.png",
       "type": "hls",
       "url": "https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8"
     },
     {
       "lcn": 345,
       "name": "TLT Molise",
-      "logo": "https://i.imgur.com/wgwD7gh",
+      "logo": "https://i.imgur.com/wgwD7gh.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8"
     },
     {
       "lcn": 346,
       "name": "Top Calcio 24",
-      "logo": "https://i.imgur.com/DnVPKPE",
+      "logo": "https://i.imgur.com/DnVPKPE.png",
       "type": "hls",
       "url": "https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8"
     },
@@ -2493,14 +2493,14 @@
     {
       "lcn": 348,
       "name": "Trentino Tv",
-      "logo": "https://i.imgur.com/ROKOCR2",
+      "logo": "https://i.imgur.com/ROKOCR2.png",
       "type": "hls",
       "url": "https://5e73cf528f404.streamlock.net/TrentinoTV/livestream/playlist.m3u8"
     },
     {
       "lcn": 349,
       "name": "Tuscia Sabina 2000Tv",
-      "logo": "https://i.imgur.com/Tq5nEAy",
+      "logo": "https://i.imgur.com/Tq5nEAy.png",
       "type": "hls",
       "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/chunks.m3u8",
       "http": true
@@ -2508,35 +2508,35 @@
     {
       "lcn": 350,
       "name": "Tv 12",
-      "logo": "https://i.imgur.com/oxv08pJ",
+      "logo": "https://i.imgur.com/oxv08pJ.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8"
     },
     {
       "lcn": 351,
       "name": "Tv Campi Flegrei",
-      "logo": "https://i.imgur.com/9d2K1nX",
+      "logo": "https://i.imgur.com/9d2K1nX.png",
       "type": "hls",
       "url": "https://tv.radiosaiuz.com:3836/live/campiflegreilive.m3u8"
     },
     {
       "lcn": 352,
       "name": "Tv Luna Napoli",
-      "logo": "https://i.imgur.com/jxhuoyE",
+      "logo": "https://i.imgur.com/jxhuoyE.png",
       "type": "hls",
       "url": "https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8"
     },
     {
       "lcn": 353,
       "name": "Tv Prato",
-      "logo": "https://i.imgur.com/zDeVpZd",
+      "logo": "https://i.imgur.com/zDeVpZd.png",
       "type": "hls",
       "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8"
     },
     {
       "lcn": 354,
       "name": "Tv Qui Modena",
-      "logo": "https://i.imgur.com/4bOYlfg",
+      "logo": "https://i.imgur.com/4bOYlfg.png",
       "type": "hls",
       "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8"
     },
@@ -2551,14 +2551,14 @@
     {
       "lcn": 356,
       "name": "Tv Yes",
-      "logo": "https://i.imgur.com/1wsO8U7",
+      "logo": "https://i.imgur.com/1wsO8U7.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/radioyes/live/index.m3u8"
     },
     {
       "lcn": 357,
       "name": "Tva Vicenza",
-      "logo": "https://i.imgur.com/FtFuPCC",
+      "logo": "https://i.imgur.com/FtFuPCC.png",
       "type": "hls",
       "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
       "http": true
@@ -2580,35 +2580,35 @@
     {
       "lcn": 360,
       "name": "Umbria+ TRT",
-      "logo": "https://i.imgur.com/CU6BBgs",
+      "logo": "https://i.imgur.com/CU6BBgs.png",
       "type": "hls",
       "url": "https://diretta.teleterni.it:8080//show/show.m3u8"
     },
     {
       "lcn": 361,
       "name": "Umbria Tv",
-      "logo": "https://i.imgur.com/XKCVEmK",
+      "logo": "https://i.imgur.com/XKCVEmK.png",
       "type": "hls",
       "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8"
     },
     {
       "lcn": 362,
       "name": "Uno Tv",
-      "logo": "https://i.imgur.com/4PNbqqL",
+      "logo": "https://i.imgur.com/4PNbqqL.png",
       "type": "hls",
       "url": "https://stream1.aswifi.it/unotv/live/index.m3u8"
     },
     {
       "lcn": 363,
       "name": "Uno4 Tv",
-      "logo": "https://i.imgur.com/wfPPpBA",
+      "logo": "https://i.imgur.com/wfPPpBA.png",
       "type": "hls",
       "url": "https://cdn.uno4.it/index.m3u8"
     },
     {
       "lcn": 364,
       "name": "Vera Tv",
-      "logo": "https://i.imgur.com/djMvkvN",
+      "logo": "https://i.imgur.com/djMvkvN.png",
       "type": "hls",
       "url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8",
       "http": true
@@ -2616,21 +2616,21 @@
     {
       "lcn": 365,
       "name": "VB33",
-      "logo": "https://i.imgur.com/ygDuIxU",
+      "logo": "https://i.imgur.com/ygDuIxU.png",
       "type": "hls",
       "url": "https://live.ipstream.it/vb33/vb33.stream/playlist.m3u8"
     },
     {
       "lcn": 366,
       "name": "Video Calabria",
-      "logo": "https://i.imgur.com/Bc2AvIm",
+      "logo": "https://i.imgur.com/Bc2AvIm.png",
       "type": "hls",
       "url": "https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8"
     },
     {
       "lcn": 367,
       "name": "Video Mediterraneo",
-      "logo": "https://i.imgur.com/hJHC3uQ",
+      "logo": "https://i.imgur.com/hJHC3uQ.png",
       "type": "hls",
       "url": "https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8"
     },
@@ -2644,7 +2644,7 @@
     {
       "lcn": 369,
       "name": "Video Regione Sicilia",
-      "logo": "https://i.imgur.com/0szwnR3",
+      "logo": "https://i.imgur.com/0szwnR3.png",
       "type": "hls",
       "url": "https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8"
     },
@@ -2673,14 +2673,14 @@
     {
       "lcn": 373,
       "name": "Videonovara",
-      "logo": "https://i.imgur.com/NnO7E5I",
+      "logo": "https://i.imgur.com/NnO7E5I.png",
       "type": "hls",
       "url": "https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8"
     },
     {
       "lcn": 374,
       "name": "Videotelecarnia",
-      "logo": "https://i.imgur.com/r4K9JHW",
+      "logo": "https://i.imgur.com/r4K9JHW.png",
       "type": "hls",
       "url": "https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8"
     },
@@ -2694,84 +2694,84 @@
     {
       "lcn": 376,
       "name": "Vuemme Tv",
-      "logo": "https://i.imgur.com/x5A0xU6",
+      "logo": "https://i.imgur.com/x5A0xU6.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8"
     },
     {
       "lcn": 377,
       "name": "Webcom Tv",
-      "logo": "https://i.imgur.com/KLwj2vj",
+      "logo": "https://i.imgur.com/KLwj2vj.png",
       "type": "hls",
       "url": "https://www.webcomiptv.it/mistserver/passionelotto/index.m3u8"
     },
     {
       "lcn": 378,
       "name": "WLTV",
-      "logo": "https://i.imgur.com/aL8jKtU",
+      "logo": "https://i.imgur.com/aL8jKtU.png",
       "type": "hls",
       "url": "https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8"
     },
     {
       "lcn": 379,
       "name": "Yvii Tv",
-      "logo": "https://i.imgur.com/yP5AvDo",
+      "logo": "https://i.imgur.com/yP5AvDo.png",
       "type": "hls",
       "url": "https://stream.wired-shop.com/hls/yviitv.m3u8"
     },
     {
       "lcn": 380,
       "name": "Zerouno Tv Music",
-      "logo": "https://i.imgur.com/r74lqW8",
+      "logo": "https://i.imgur.com/r74lqW8.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8"
     },
     {
       "lcn": 381,
       "name": "Zerouno Tv News",
-      "logo": "https://i.imgur.com/vxRzyjE",
+      "logo": "https://i.imgur.com/vxRzyjE.png",
       "type": "hls",
       "url": "https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8"
     },
     {
       "lcn": 382,
       "name": "Radio Colonna Tv",
-      "logo": "https://i.imgur.com/EcQvDfq",
+      "logo": "https://i.imgur.com/EcQvDfq.png",
       "type": "youtube",
       "url": "https://www.youtube.com/radiocolonna/live"
     },
     {
       "lcn": 383,
       "name": "Euronews Italian",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",
       "type": "youtube",
       "url": "https://www.youtube.com/user/euronewsit/live"
     },
     {
       "lcn": 384,
       "name": "Teleroma 56",
-      "logo": "https://i.imgur.com/wGfpUj8",
+      "logo": "https://i.imgur.com/wGfpUj8.png",
       "type": "twitch",
       "url": "teleroma_56"
     },
     {
       "lcn": 385,
       "name": "TeleRadioStereo",
-      "logo": "https://i.imgur.com/eRNgqnA",
+      "logo": "https://i.imgur.com/eRNgqnA.png",
       "type": "twitch",
       "url": "teleradiostereo"
     },
     {
       "lcn": 519,
       "name": "TRM h24",
-      "logo": "https://i.imgur.com/d47CdYU",
+      "logo": "https://i.imgur.com/d47CdYU.png",
       "type": "youtube",
       "url": "https://www.youtube.com/user/trmh24/live"
     },
     {
       "lcn": 701,
       "name": "UniNettuno University TV",
-      "logo": "https://i.imgur.com/BOGMeio",
+      "logo": "https://i.imgur.com/BOGMeio.png",
       "type": "hls",
       "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
       "geoblock": true
@@ -2779,7 +2779,7 @@
     {
       "lcn": 899,
       "name": "Radio TV Serie A con RDS",
-      "logo": "https://i.imgur.com/NzDeCIx",
+      "logo": "https://i.imgur.com/NzDeCIx.png",
       "type": "hls",
       "url": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8"
     }
