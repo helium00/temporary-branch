@@ -1,30 +1,11 @@
 # temporary-branch
 
-Italian TV channel lists for the [Zappr](https://zappr.stream/) web IPTV player.
+Italian TV channel list for the [Zappr](https://zappr.stream/) web IPTV player.
 
-## Files
+## File
 
-| File | Format | Notes |
-|---|---|---|
-| `italy_zappr.json` | **Zappr-compatible** JSON (388 channels) | Import-ready |
-| `italy_channels.json` | Legacy custom JSON | **Not** compatible with Zappr |
-
-## Why the legacy file is not compatible
-
-Zappr validates imported lists against an official JSON Schema
-(`https://channels.zappr.stream/schema.json`, draft-07). The channel object uses
-`"additionalProperties": false`, so any unexpected key fails the import.
-
-The legacy `italy_channels.json` failed on every field:
-
-| Legacy field | Problem | Zappr field |
-|---|---|---|
-| top-level | missing required `name` / `publisher` | — |
-| `number` | invalid key | `lcn` |
-| `stream` | invalid key | `url` |
-| `section` | invalid key (rejected) | *(no per-channel group)* |
-| `epg: "Rai1.it"` | wrong type: schema expects an object | `epg: {source, id}` |
-| `logo: ".../x.png"` | PNG/WEBP must have **no** file extension | `logo: ".../x"` |
+`italy_zappr.json` — Zappr-compatible list of 388 Italian channels, validated
+against the official schema (`https://channels.zappr.stream/schema.json`).
 
 ## Zappr list format
 
@@ -43,6 +24,8 @@ The legacy `italy_channels.json` failed on every field:
 - Required (channel): `lcn`, `name`, `logo`
 - `type`: `hls` | `dash` | `twitch` | `youtube` | `iframe` | `audio` | `direct` | `popup`
 - Logo: strip the extension for PNG/WEBP; keep `.svg`; JPG/GIF keep their extension.
+- The channel object uses `"additionalProperties": false` — any unexpected key
+  fails the import.
 
 ## Source & generation
 
